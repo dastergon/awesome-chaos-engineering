@@ -72,7 +72,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Netflix Technology Blog](https://medium.com/@NetflixTechBlog) - Learn more about how Netflix designs, builds, and operates our systems and engineering organizations
 * [Production Ready](https://tinyletter.com/production-ready) - A mailing list about building resilient infrastructure and tools.
 * [SRE Weekly](https://sreweekly.com/) - Weekly Site Reliability Newsletter.
-* [Site Reliability Engineering resources] - A curated list of awesome Site Reliability and Production Engineering resources.
+* [Site Reliability Engineering resources](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources.
 * [SysAdvent](https://sysadvent.blogspot.com) - One article for each day of December, ending on the 25th article.
 
 ## Conferences & Meetups
