@@ -50,6 +50,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [The Road to Chaos - Velocity 2017](https://github.com/norajones/Presentations/blob/master/The%20Road%20To%20Chaos%20-%20Velocity%202017.pdf)
 * [How Netflix DDoS’d Itself To Help Protect the Entire Internet](https://www.wired.com/story/netflix-ddos-attack)
 * [10 Years of Crashing Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/krishnan)
+* [Weathering the Unexpected](http://queue.acm.org/detail.cfm?id=2371516)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
