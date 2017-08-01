@@ -67,7 +67,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [The Simian Army](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your cloud operating in top form
 * [orchestrator](https://github.com/github/orchestrator) - MySQL replication topology management and HA
 * [kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
-* [Gremlin Inc.](https://gremlininc.com/) - Failure as a Service
+* [Gremlin Inc.](https://www.gremlininc.com/) - Failure as a Service
 
 ## Papers
 * [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
@@ -86,6 +86,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The Official SRE Conference.
 * [LISA Conferences](https://www.usenix.org/conferences/byname/5) - Prominent Conference About SysAdmin/DevOps/SRE.
 * [O'Reilly Velocity Conference](https://conferences.oreilly.com/velocity/)
+* [Chaos Engineering Community Meetup Group](https://www.meetup.com/Chaos-Engineering-Community/) - Bay Area Meetup group for Chaos Engineers
 
 ## Forums
 * [Chaos Community Google Group](https://groups.google.com/forum/#!forum/chaos-community)
