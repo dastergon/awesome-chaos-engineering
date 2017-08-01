@@ -51,6 +51,12 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [How Netflix DDoS’d Itself To Help Protect the Entire Internet](https://www.wired.com/story/netflix-ddos-attack)
 * [10 Years of Crashing Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/krishnan)
 * [Weathering the Unexpected](http://queue.acm.org/detail.cfm?id=2371516)
+* [SRECON17: Breaking Things on Purpose](https://youtu.be/h_-shm0SL08)
+* [PuppetConf 2016: Chaos Patterns - Architecting for Failure in Distributed Systems](https://youtu.be/V3P35N_HXNQ)
+* [Ship More, Sink Less - Changing Chaos Engineering and Distributed Tracing](https://youtu.be/nr2KWbyWAmA)
+* [Cloudcast - Discipline of Chaos Engineering](http://www.thecloudcast.net/2017/05/the-cloudcast-299-discipline-of-chaos.html)
+* [Software Engineering Daily - Failure Injection with Kolton Andrus podcast](https://softwareengineeringdaily.com/2017/03/29/failure-injection-with-kolton-andrus/)
+* [Responding to Failures in Playback Features with Haley Tucker podcast](https://www.infoq.com/podcasts/netflix-haley-tucker?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=architecture-design)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
