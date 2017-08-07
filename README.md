@@ -57,12 +57,12 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Cloudcast - Discipline of Chaos Engineering](http://www.thecloudcast.net/2017/05/the-cloudcast-299-discipline-of-chaos.html)
 * [Software Engineering Daily - Failure Injection with Kolton Andrus podcast](https://softwareengineeringdaily.com/2017/03/29/failure-injection-with-kolton-andrus/)
 * [Responding to Failures in Playback Features with Haley Tucker podcast](https://www.infoq.com/podcasts/netflix-haley-tucker?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=architecture-design)
+* [Distributed Chaos Operations](https://www.youtube.com/watch?v=8xIeu4S-Cro)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
 * [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html)
 * [The Practice Of Cloud System Administration: Designing and Operating Large Distributed Systems](http://the-cloud-book.com/)
-* [Distributed Chaos Operations](https://www.youtube.com/watch?v=8xIeu4S-Cro)
 
 ## Education
 * A Chaos Engineering Bootcamp for O'Reilly Velocity 2017 - [Slides](https://speakerdeck.com/tammybutow/chaos-engineering-bootcamp) & [Source code](https://github.com/tammybutow/chaos_engineering_bootcamp)
