@@ -39,7 +39,6 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Too big to test: Breaking a production brokerage platform without causing financial devastation](https://conferences.oreilly.com/velocity/devops-web-performance-ny-2015/public/schedule/detail/45012)
 * [Inside Azure Search: Chaos Engineering](https://azure.microsoft.com/en-us/blog/inside-azure-search-chaos-engineering/)
 * [Netflix, the Simian Army, and the culture of freedom and responsibility](https://devops.com/netflix-the-simian-army-and-the-culture-of-freedom-and-responsibility/)
-* [Chaos Engineering 101](https://medium.com/production-ready/chaos-engineering-101-1103059fae44)
 * [FIT: Failure Injection Testing](https://medium.com/netflix-techblog/fit-failure-injection-testing-35d8e2a9bb2)
 * [The Netflix Simian Army](https://medium.com/netflix-techblog/the-netflix-simian-army-16e57fbab116)
 * [Automated Failure Testing](https://medium.com/netflix-techblog/automated-failure-testing-86c1b8bc841f)
@@ -67,6 +66,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 ## Education
 * A Chaos Engineering Bootcamp for O'Reilly Velocity 2017 - [Slides](https://speakerdeck.com/tammybutow/chaos-engineering-bootcamp) & [Source code](https://github.com/tammybutow/chaos_engineering_bootcamp)
 * [Your First Chaos Experiment](https://blog.gremlininc.com/your-first-chaos-experiment-321ec4468bce)
+* [Chaos Engineering 101](https://medium.com/production-ready/chaos-engineering-101-1103059fae44)
 * [A Primer on Automating Chaos](https://blog.gremlininc.com/a-primer-on-automating-chaos-84ff4b053be0)
 
 ## Notable Tools
