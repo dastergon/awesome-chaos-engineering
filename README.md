@@ -81,6 +81,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
 * [Lineage-driven Fault Injection](https://people.eecs.berkeley.edu/~palvaro/molly.pdf)
 * [Automating Failure Testing Research at Internet Scale ](https://people.ucsc.edu/~palvaro/fit-ldfi.pdf)
+* [Principles of Antifragile Software](https://arxiv.org/abs/1404.3056)
 
 ## Blogs & Newsletters
 * [Netflix Technology Blog](https://medium.com/@NetflixTechBlog) - Learn more about how Netflix designs, builds, and operates our systems and engineering organizations
