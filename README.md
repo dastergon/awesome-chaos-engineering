@@ -46,7 +46,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [The Journey to Chaos Engineering begins with a single step - Bruce Wong and James Burns (Twilio)](https://www.youtube.com/watch?v=rKAo2wANiHM)
 * [Chaos Engineering by Lorin Hochstein](https://www.youtube.com/watch?v=vq4QZ4_YDok)
 * [Chaos Engineering - Casey Rosenthal](https://www.youtube.com/watch?v=6OIOpx_dVFY)
-* [The Road to Chaos - Velocity 2017](https://github.com/norajones/Presentations/blob/master/The%20Road%20To%20Chaos%20-%20Velocity%202017.pdf)
+* The Road to Chaos - Velocity 2017- [video](https://www.youtube.com/watch?v=FCZVAZaXIjs) & [slides](https://github.com/norajones/Presentations/blob/master/The%20Road%20To%20Chaos%20-%20Velocity%202017.pdf)
 * [How Netflix DDoS’d Itself To Help Protect the Entire Internet](https://www.wired.com/story/netflix-ddos-attack)
 * [10 Years of Crashing Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/krishnan)
 * [Weathering the Unexpected](http://queue.acm.org/detail.cfm?id=2371516)
