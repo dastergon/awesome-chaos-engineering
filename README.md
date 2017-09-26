@@ -97,6 +97,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [LISA Conferences](https://www.usenix.org/conferences/byname/5) - Prominent Conference About SysAdmin/DevOps/SRE.
 * [O'Reilly Velocity Conference](https://conferences.oreilly.com/velocity/)
 * [Chaos Engineering Community Meetup Group](https://www.meetup.com/Chaos-Engineering-Community/) - Bay Area Meetup group for Chaos Engineers
+* [London Chaos Engineering Community](https://www.meetup.com/London-Chaos-Engineering-Community/)
 
 ## Forums
 * [Chaos Community Google Group](https://groups.google.com/forum/#!forum/chaos-community)
