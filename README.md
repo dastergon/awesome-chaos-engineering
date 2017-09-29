@@ -76,6 +76,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [orchestrator](https://github.com/github/orchestrator) - MySQL replication topology management and HA
 * [kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 * [Gremlin Inc.](https://www.gremlininc.com/) - Failure as a Service
+* [Pumba](https://github.com/gaia-adm/pumba) - Chaos testing and network emulation for Docker containers (and clusters)
 
 ## Papers
 * [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
