@@ -31,7 +31,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Lord of Chaos - Becoming a Chaos Engineer](https://vimeo.com/groups/jz2016/videos/181925286)
 * [Chaos testing - Preventing failure by instigation](http://www.cakesolutions.net/teamblogs/chaos-testing-preventing-failure-by-instiga)
 * [Orchestrated Chaos](https://docs.google.com/presentation/d/1zzHS3qoPGzwsSna5-uk3Xt7LW_3Fr6ag8JDkeyrKwL4/edit#slide=id.p)
-* [Choose your own adventure Chaos Engineering](https://www.slideshare.net/NoraJones1/choose-your-own-adventure-qcon-2017-1)
+* Choose your own adventure: Chaos Engineering - [Video](https://www.infoq.com/presentations/adopt-chaos-engineering) & [Slides](https://www.slideshare.net/NoraJones1/choose-your-own-adventure-qcon-2017-1)
 * [AMA Chaos Engineering + DiRT](http://pages.catchpoint.com/AMA-Chaos-DiRT.html)
 * [SRECON17: Principles of Chaos Engineering](https://www.usenix.org/conference/srecon17americas/program/presentation/rosenthal)
 * [Chaos & Intuition Engineering at Netflix](https://www.youtube.com/watch?v=Q4nniyAarbs)
