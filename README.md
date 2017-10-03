@@ -57,6 +57,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Software Engineering Daily - Failure Injection with Kolton Andrus podcast](https://softwareengineeringdaily.com/2017/03/29/failure-injection-with-kolton-andrus/)
 * [Responding to Failures in Playback Features with Haley Tucker podcast](https://www.infoq.com/podcasts/netflix-haley-tucker?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=architecture-design)
 * [Distributed Chaos Operations](https://www.youtube.com/watch?v=8xIeu4S-Cro)
+* ["Antics, drift, and chaos" by Lorin Hochstein](https://youtu.be/SM2uXpmyJmA)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
