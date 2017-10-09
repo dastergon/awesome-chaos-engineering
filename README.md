@@ -114,3 +114,4 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Tammy Bütow](https://twitter.com/tammybutow)
 * [Bruce Wong](https://twitter.com/bruce_m_wong)
 * [Kolton Andrus](https://twitter.com/koltonandrus)
+* [Lorin Hochstein](https://twitter.com/lhochstein)
