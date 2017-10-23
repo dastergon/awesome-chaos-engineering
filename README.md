@@ -115,3 +115,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Bruce Wong](https://twitter.com/bruce_m_wong)
 * [Kolton Andrus](https://twitter.com/koltonandrus)
 * [Lorin Hochstein](https://twitter.com/lhochstein)
+* [Peter Alvaro](https://twitter.com/palvaro)
+* [John Allspaw](https://twitter.com/allspaw)
+* [Charles Torre](https://twitter.com/carmine007)
+* [Russ Miles](https://twitter.com/russmiles)
