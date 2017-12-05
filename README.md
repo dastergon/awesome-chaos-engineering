@@ -59,6 +59,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Responding to Failures in Playback Features with Haley Tucker podcast](https://www.infoq.com/podcasts/netflix-haley-tucker?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=architecture-design)
 * [Distributed Chaos Operations](https://www.youtube.com/watch?v=8xIeu4S-Cro)
 * ["Antics, drift, and chaos" by Lorin Hochstein](https://youtu.be/SM2uXpmyJmA)
+* [re:invent 2017: Nora Jones Describes Why We Need More Chaos - Chaos Engineering, That Is](https://youtu.be/rgfww8tLM0A)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
