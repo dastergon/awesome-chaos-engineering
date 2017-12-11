@@ -81,6 +81,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Gremlin Inc.](https://www.gremlininc.com/) - Failure as a Service
 * [Pumba](https://github.com/gaia-adm/pumba) - Chaos testing and network emulation for Docker containers (and clusters)
 * [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit) - A chaos engineering toolkit to help you build confidence in your software system.
+* [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - adds chaos to your Kubernetes clusters, so that you can detect problems in your systems as early as possible. It kills targeted pods and takes VMs up and down.
 
 ## Papers
 * [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
