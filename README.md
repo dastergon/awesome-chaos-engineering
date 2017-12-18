@@ -125,3 +125,4 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Charles Torre](https://twitter.com/carmine007)
 * [Russ Miles](https://twitter.com/russmiles)
 * [Aaron Rinehart](https://twitter.com/aaronrinehart)
+* [Mikolaj Pawlikowski](https://twitter.com/mikopawlikowski)
