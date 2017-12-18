@@ -46,6 +46,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [The Verification of a Distributed System by Caitie McCaffrey](http://queue.acm.org/detail.cfm?ref=rss&id=2889274)
 * [The Journey to Chaos Engineering begins with a single step - Bruce Wong and James Burns (Twilio)](https://www.youtube.com/watch?v=rKAo2wANiHM)
 * [Chaos Engineering by Lorin Hochstein](https://www.youtube.com/watch?v=vq4QZ4_YDok)
+* [Aaron Rinehart - ChaoSlingr: Introducing Security based Chaos Testing](https://www.youtube.com/watch?v=BLRb-E0G5zk)
 * [Chaos Engineering - Casey Rosenthal](https://www.youtube.com/watch?v=6OIOpx_dVFY)
 * The Road to Chaos - Velocity 2017- [video](https://www.youtube.com/watch?v=FCZVAZaXIjs) & [slides](https://github.com/norajones/Presentations/blob/master/The%20Road%20To%20Chaos%20-%20Velocity%202017.pdf)
 * [How Netflix DDoS’d Itself To Help Protect the Entire Internet](https://www.wired.com/story/netflix-ddos-attack)
@@ -81,6 +82,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Gremlin Inc.](https://www.gremlininc.com/) - Failure as a Service
 * [Pumba](https://github.com/gaia-adm/pumba) - Chaos testing and network emulation for Docker containers (and clusters)
 * [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit) - A chaos engineering toolkit to help you build confidence in your software system.
+* [ChaoSlingr](https://github.com/Optum/ChaoSlingr) - Introducing Security Chaos Engineering. ChaoSlingr focuses primarily on the experimentation on AWS Infrastructure to proactively instrument system security failure through experimentation.
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - adds chaos to your Kubernetes clusters, so that you can detect problems in your systems as early as possible. It kills targeted pods and takes VMs up and down.
 
 ## Papers
@@ -122,3 +124,4 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [John Allspaw](https://twitter.com/allspaw)
 * [Charles Torre](https://twitter.com/carmine007)
 * [Russ Miles](https://twitter.com/russmiles)
+* [Aaron Rinehart](https://twitter.com/aaronrinehart)
