@@ -113,6 +113,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Chaos Engineering Community Meetup Group](https://www.meetup.com/Chaos-Engineering-Community/) - Bay Area Meetup group for Chaos Engineers
 * [London Chaos Engineering Community](https://www.meetup.com/London-Chaos-Engineering-Community/)
 * [Chaos Engineering Community](https://www.meetup.com/pro/chaos/)
+* ["GameDay" – Achieving Resilience through Chaos Engineering](https://www.infoq.com/presentations/gameday-chaos-engineering)
 
 ## Forums
 * [Chaos Community Google Group](https://groups.google.com/forum/#!forum/chaos-community)
