@@ -63,6 +63,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [re:invent 2017: Nora Jones Describes Why We Need More Chaos - Chaos Engineering, That Is](https://youtu.be/rgfww8tLM0A)
 * [Failure Friday: Four Years On](https://www.pagerduty.com/blog/failure-fridays-four-years/)
 * [Monkeys & Lemurs and Locusts, Oh my!](https://www.slideshare.net/zgrinch/monkeys-lemurs-and-locusts-oh-my)
+* [Practical Chaos Engineering](https://youtu.be/Yn4tYxqzFVU)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
