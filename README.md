@@ -66,6 +66,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Practical Chaos Engineering](https://youtu.be/Yn4tYxqzFVU)
 * [Chaos Day in the Met Office Cloud](https://www.cloudreach.com/fr/blog/training-cloud-operations-teams-met-office/)
 * [Cloud Native and Chaos Engineering](https://medium.com/chaosiq/cloud-native-and-chaos-engineering-20842ee2fa8a)
+* [Chaos Engineering with Kolton Andrus](https://softwareengineeringdaily.com/2018/02/02/chaos-engineering-with-kolton-andrus/)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
