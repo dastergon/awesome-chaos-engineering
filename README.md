@@ -64,6 +64,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Failure Friday: Four Years On](https://www.pagerduty.com/blog/failure-fridays-four-years/)
 * [Monkeys & Lemurs and Locusts, Oh my!](https://www.slideshare.net/zgrinch/monkeys-lemurs-and-locusts-oh-my)
 * [Practical Chaos Engineering](https://youtu.be/Yn4tYxqzFVU)
+* [Chaos Day in the Met Office Cloud](https://www.cloudreach.com/fr/blog/training-cloud-operations-teams-met-office/)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
