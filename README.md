@@ -79,6 +79,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Your First Chaos Experiment](https://blog.gremlininc.com/your-first-chaos-experiment-321ec4468bce)
 * [Chaos Engineering 101](https://medium.com/production-ready/chaos-engineering-101-1103059fae44)
 * [A Primer on Automating Chaos](https://blog.gremlininc.com/a-primer-on-automating-chaos-84ff4b053be0)
+* [Intro to Chaos Engineering](https://www.youtube.com/watch?v=qHykK5pFRW4)
 
 ## Notable Tools
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
