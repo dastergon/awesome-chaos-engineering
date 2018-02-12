@@ -122,6 +122,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [London Chaos Engineering Community](https://www.meetup.com/London-Chaos-Engineering-Community/)
 * [Chaos Engineering Community](https://www.meetup.com/pro/chaos/)
 * ["GameDay" – Achieving Resilience through Chaos Engineering](https://www.infoq.com/presentations/gameday-chaos-engineering)
+* [LaunchDarkly Blog](http://blog.launchdarkly.com/) - Continuous delivery and feature flags blog.
 
 ## Forums
 * [Chaos Community Google Group](https://groups.google.com/forum/#!forum/chaos-community)
