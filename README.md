@@ -105,6 +105,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Lineage-driven Fault Injection](https://people.eecs.berkeley.edu/~palvaro/molly.pdf)
 * [Automating Failure Testing Research at Internet Scale ](https://people.ucsc.edu/~palvaro/fit-ldfi.pdf)
 * [Principles of Antifragile Software](https://arxiv.org/abs/1404.3056)
+* [Why is random testing effective for partition tolerance bugs?](https://dl.acm.org/citation.cfm?id=3177123.3158134)
 
 ## Blogs & Newsletters
 * [Netflix Technology Blog](https://medium.com/@NetflixTechBlog) - Learn more about how Netflix designs, builds, and operates our systems and engineering organizations
