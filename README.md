@@ -67,6 +67,8 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Chaos Day in the Met Office Cloud](https://www.cloudreach.com/fr/blog/training-cloud-operations-teams-met-office/)
 * [Cloud Native and Chaos Engineering](https://medium.com/chaosiq/cloud-native-and-chaos-engineering-20842ee2fa8a)
 * [Chaos Engineering with Kolton Andrus](https://softwareengineeringdaily.com/2018/02/02/chaos-engineering-with-kolton-andrus/)
+* ["GameDay" – Achieving Resilience through Chaos Engineering](https://www.infoq.com/presentations/gameday-chaos-engineering)
+
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
@@ -113,6 +115,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Gremlin Blog](https://blog.gremlininc.com) - Blogs on Chaos Engineering from Gremlin Inc.
 * [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - Weekly systems engineering and operations news and insights from industry insiders.
 * [GameDay Resources](https://dius.com.au/resources/game-day/) - Resources for getting started with GameDay and Chaos Engineering.
+* [LaunchDarkly Blog](http://blog.launchdarkly.com/) - Continuous delivery and feature flags blog.
 
 ## Conferences & Meetups
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The Official SRE Conference.
@@ -121,8 +124,6 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Chaos Engineering Community Meetup Group](https://www.meetup.com/Chaos-Engineering-Community/) - Bay Area Meetup group for Chaos Engineers
 * [London Chaos Engineering Community](https://www.meetup.com/London-Chaos-Engineering-Community/)
 * [Chaos Engineering Community](https://www.meetup.com/pro/chaos/)
-* ["GameDay" – Achieving Resilience through Chaos Engineering](https://www.infoq.com/presentations/gameday-chaos-engineering)
-* [LaunchDarkly Blog](http://blog.launchdarkly.com/) - Continuous delivery and feature flags blog.
 
 ## Forums
 * [Chaos Community Google Group](https://groups.google.com/forum/#!forum/chaos-community)
