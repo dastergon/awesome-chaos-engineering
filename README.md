@@ -67,6 +67,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Cloud Native and Chaos Engineering](https://medium.com/chaosiq/cloud-native-and-chaos-engineering-20842ee2fa8a)
 * [Chaos Engineering with Kolton Andrus](https://softwareengineeringdaily.com/2018/02/02/chaos-engineering-with-kolton-andrus/)
 * ["GameDay" – Achieving Resilience through Chaos Engineering](https://www.infoq.com/presentations/gameday-chaos-engineering)
+* [Chaos Engineering: the history, principles, and practice](https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/)
 
 
 ## Books
