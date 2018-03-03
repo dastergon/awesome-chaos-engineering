@@ -83,6 +83,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [A Primer on Automating Chaos](https://blog.gremlininc.com/a-primer-on-automating-chaos-84ff4b053be0)
 * [Intro to Chaos Engineering](https://www.youtube.com/watch?v=qHykK5pFRW4)
 * [Learn the basics of the Chaos Toolkit](https://www.katacoda.com/chaostoolkit/courses/01-chaostoolkit-getting-started)
+* [How to Run a GameDay](https://www.gremlin.com/community/tutorials/how-to-run-a-gameday/)
 
 ## Notable Tools
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
