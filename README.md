@@ -68,6 +68,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Chaos Engineering with Kolton Andrus](https://softwareengineeringdaily.com/2018/02/02/chaos-engineering-with-kolton-andrus/)
 * ["GameDay" – Achieving Resilience through Chaos Engineering](https://www.infoq.com/presentations/gameday-chaos-engineering)
 * [Chaos Engineering: the history, principles, and practice](https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/)
+* [Embracing the Chaos of Chaos Engineering](https://blog.codeship.com/embracing-the-chaos-of-chaos-engineering/)
 
 
 ## Books
