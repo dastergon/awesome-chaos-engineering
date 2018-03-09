@@ -69,6 +69,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * ["GameDay" – Achieving Resilience through Chaos Engineering](https://www.infoq.com/presentations/gameday-chaos-engineering)
 * [Chaos Engineering: the history, principles, and practice](https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/)
 * [Embracing the Chaos of Chaos Engineering](https://blog.codeship.com/embracing-the-chaos-of-chaos-engineering/)
+* [Designing Services for Resilience: Netflix Lessons](https://www.infoq.com/presentations/netflix-microservices-resiliency)
 
 
 ## Books
