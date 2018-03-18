@@ -71,7 +71,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Embracing the Chaos of Chaos Engineering](https://blog.codeship.com/embracing-the-chaos-of-chaos-engineering/)
 * [Designing Services for Resilience: Netflix Lessons](https://www.infoq.com/presentations/netflix-microservices-resiliency)
 * [Chaos Engineering: A cheat sheet](https://www.techrepublic.com/article/chaos-engineering-a-cheat-sheet/)
-
+* [How to convince your boss and make them say “Yes!” to Chaos Engineering?](https://medium.com/@crochefolle/how-to-convince-your-boss-to-make-them-say-yes-to-chaos-engineering-796ba119bd7)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
