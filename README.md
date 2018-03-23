@@ -72,6 +72,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Designing Services for Resilience: Netflix Lessons](https://www.infoq.com/presentations/netflix-microservices-resiliency)
 * [Chaos Engineering: A cheat sheet](https://www.techrepublic.com/article/chaos-engineering-a-cheat-sheet/)
 * [How to convince your boss and make them say “Yes!” to Chaos Engineering?](https://medium.com/@crochefolle/how-to-convince-your-boss-to-make-them-say-yes-to-chaos-engineering-796ba119bd7)
+* [Why the World Needs More Resilient Systems](https://www.infoq.com/news/2018/03/resilient-systems-chaos-engineer)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
