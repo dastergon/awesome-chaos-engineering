@@ -91,6 +91,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Build System Confidence with Chaos Engineering](https://medium.com/chaosiq/improve-your-cloud-native-devops-flow-with-chaos-engineering-dc32836c2d9a)
 * [How we break things at Twitter: failure testing](https://blog.twitter.com/engineering/en_us/a/2015/how-we-break-things-at-twitter-failure-testing.html)
 * [Run Chaos Experiments Without Risking Your Job](https://blog.loadmill.com/run-chaos-experiments-without-risking-your-job-2c8a5f4b0bfc)
+* [A Guide to Your First Chaos Day](https://victorops.com/blog/a-guide-to-your-first-chaos-day)
 
 ## Notable Tools
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
