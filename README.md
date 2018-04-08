@@ -6,10 +6,6 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 #### What is Chaos Engineering?
 > Chaos Engineering is the discipline of experimenting on a distributed system in order to build confidence in the system’s capability to withstand turbulent conditions in production. - [Principles Of Chaos Engineering](http://principlesofchaos.org/) website.
 
-## Contributing
-
-Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Contributions are always welcome!
-
 ## Contents
 - [Culture](#culture)
 - [Books](#books)
@@ -159,3 +155,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 * [Russ Miles](https://twitter.com/russmiles)
 * [Aaron Rinehart](https://twitter.com/aaronrinehart)
 * [Mikolaj Pawlikowski](https://twitter.com/mikopawlikowski)
+
+## Contributing
+
+Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Contributions are always welcome!
