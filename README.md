@@ -1,6 +1,5 @@
 # Awesome Chaos Engineering [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-
 A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) resources.
 
 #### What is Chaos Engineering?
@@ -73,7 +72,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
-* [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html)
+* [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html) - 
 * [The Practice Of Cloud System Administration: Designing and Operating Large Distributed Systems](http://the-cloud-book.com/)
 * [Antifragile Systems and Teams](http://www.oreilly.com/webops-perf/free/antifragile-systems-and-teams.csp)
 
@@ -92,17 +91,17 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 
 ## Notable Tools
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
-* [The Simian Army](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your cloud operating in top form
-* [orchestrator](https://github.com/github/orchestrator) - MySQL replication topology management and HA
-* [kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
-* [Gremlin Inc.](https://www.gremlininc.com/) - Failure as a Service
-* [Pumba](https://github.com/gaia-adm/pumba) - Chaos testing and network emulation for Docker containers (and clusters)
+* [The Simian Army](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your cloud operating in top form.
+* [orchestrator](https://github.com/github/orchestrator) - MySQL replication topology management and HA.
+* [kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters.
+* [Gremlin Inc.](https://www.gremlininc.com/) - Failure as a Service.
+* [Pumba](https://github.com/gaia-adm/pumba) - Chaos testing and network emulation for Docker containers (and clusters).
 * [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit) - A chaos engineering toolkit to help you build confidence in your software system.
 * [ChaoSlingr](https://github.com/Optum/ChaoSlingr) - Introducing Security Chaos Engineering. ChaoSlingr focuses primarily on the experimentation on AWS Infrastructure to proactively instrument system security failure through experimentation.
-* [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - adds chaos to your Kubernetes clusters, so that you can detect problems in your systems as early as possible. It kills targeted pods and takes VMs up and down.
+* [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - Adds chaos to your Kubernetes clusters, so that you can detect problems in your systems as early as possible. It kills targeted pods and takes VMs up and down.
 * [drax](https://github.com/dcos-labs/drax) -  DC/OS Resilience Automated Xenodiagnosis tool. It helps to test DC/OS deployments by applying a Chaos Monkey-inspired, proactive and invasive testing approach.
 * [Wiremock](http://wiremock.org/) - API mocking (Service Virtualization) which enables modeling real world faults and delays
-* [MockLab](http://get.mocklab.io/) - API mocking (Service Virtualization) as a service which enables modeling real world faults and delays
+* [MockLab](http://get.mocklab.io/) - API mocking (Service Virtualization) as a service which enables modeling real world faults and delays.
 * [Pod-Reaper](https://github.com/target/pod-reaper) - A rules based pod killing container. Pod-Reaper was designed to kill pods that meet specific conditions that can be used for Chaos testing in Kubernetes.
 * [Muxy](https://github.com/mefellows/muxy/) - A chaos testing tool for simulating a real-world distributed system failures.
 * [Toxiproxy](https://github.com/Shopify/toxiproxy) - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
@@ -117,7 +116,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Why is random testing effective for partition tolerance bugs?](https://dl.acm.org/citation.cfm?id=3177123.3158134)
 
 ## Blogs & Newsletters
-* [Netflix Technology Blog](https://medium.com/@NetflixTechBlog) - Learn more about how Netflix designs, builds, and operates our systems and engineering organizations
+* [Netflix Technology Blog](https://medium.com/@NetflixTechBlog) - Learn more about how Netflix designs, builds, and operates our systems and engineering organizations.
 * [Production Ready](https://tinyletter.com/production-ready) - A mailing list about building resilient infrastructure and tools.
 * [SRE Weekly](https://sreweekly.com/) - Weekly Site Reliability Newsletter.
 * [Site Reliability Engineering resources](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources.
@@ -128,12 +127,12 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [LaunchDarkly Blog](http://blog.launchdarkly.com/) - Continuous delivery and feature flags blog.
 
 ## Conferences & Meetups
-* [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The Official SRE Conference.
-* [LISA Conferences](https://www.usenix.org/conferences/byname/5) - Prominent Conference About SysAdmin/DevOps/SRE.
-* [O'Reilly Velocity Conference](https://conferences.oreilly.com/velocity/)
-* [Chaos Engineering Community Meetup Group](https://www.meetup.com/Chaos-Engineering-Community/) - Bay Area Meetup group for Chaos Engineers
-* [London Chaos Engineering Community](https://www.meetup.com/London-Chaos-Engineering-Community/)
-* [Chaos Engineering Community](https://www.meetup.com/pro/chaos/)
+* [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The official SRE conference.
+* [LISA Conferences](https://www.usenix.org/conferences/byname/5) - Prominent conference about SysAdmin/DevOps/SRE.
+* [O'Reilly Velocity Conference](https://conferences.oreilly.com/velocity/) - Prominent conference about Systems Engineering/DevOps/SRE.
+* [Chaos Engineering Community Meetup Group](https://www.meetup.com/Chaos-Engineering-Community/) - Bay Area Meetup group for Chaos Engineers.
+* [London Chaos Engineering Community](https://www.meetup.com/London-Chaos-Engineering-Community/) _ London Area Meetup group for Chaos Engineers.
+* [Chaos Engineering Community](https://www.meetup.com/pro/chaos/) - A collection of meetups across the globe about Chaos Engineerings.
 
 ## Forums
 * [Chaos Community Google Group](https://groups.google.com/forum/#!forum/chaos-community)
