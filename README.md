@@ -88,6 +88,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [How we break things at Twitter: failure testing](https://blog.twitter.com/engineering/en_us/a/2015/how-we-break-things-at-twitter-failure-testing.html)
 * [Run Chaos Experiments Without Risking Your Job](https://blog.loadmill.com/run-chaos-experiments-without-risking-your-job-2c8a5f4b0bfc)
 * [A Guide to Your First Chaos Day](https://victorops.com/blog/a-guide-to-your-first-chaos-day)
+* [Planning Your Own Chaos Day](https://www.gremlin.com/community/tutorials/planning-your-own-chaos-day/)
 
 ## Notable Tools
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
