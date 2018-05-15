@@ -125,6 +125,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Why is random testing effective for partition tolerance bugs?](https://dl.acm.org/citation.cfm?id=3177123.3158134)
 * [Chaos Engineering](https://arxiv.org/abs/1702.05843)
 * [A Platform for Automating Chaos Experiments](https://arxiv.org/abs/1702.05849)
+* [A Chaos Engineering System for Live Analysis and Falsification of Exception-handling in the JVM](https://arxiv.org/abs/1805.05246)
 
 ## Blogs & Newsletters
 * [Netflix Technology Blog](https://medium.com/@NetflixTechBlog) - Learn more about how Netflix designs, builds, and operates our systems and engineering organizations.
