@@ -70,6 +70,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Why the World Needs More Resilient Systems](https://www.infoq.com/news/2018/03/resilient-systems-chaos-engineer)
 * [Chaos Architecture](https://www.infoq.com/presentations/chaos-architecture-mindset)
 * [Gremlin’s Tammy Bütow on the Business Side of Chaos Engineering](https://thenewstack.io/gremlins-tammy-butow-on-the-business-side-of-chaos-engineering/)
+* [Kubernetes Chaos Engineering: Lessons Learned](https://learnk8s.io/blog/kubernetes-chaos-engineering-lessons-learned)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
