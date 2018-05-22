@@ -115,6 +115,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Namazu](https://github.com/osrg/namazu) - Programmable fuzzy scheduler for testing distributed systems.
 * [Chaos Monkey for Spring Boot](https://codecentric.github.io/chaos-monkey-spring-boot/) - Injects latencies, exceptions, and terminations into Spring Boot applications
 * [Byte-Monkey](https://github.com/mrwilson/byte-monkey) - Bytecode-level fault injection for the JVM. It works by instrumenting application code on the fly to deliberately introduce faults like exceptions and latency.
+* [GomJabbar](https://github.com/outbrain/GomJabbar) - ChaosMonkey for your private cloud
 
 ## Cloud Services
 * [Testing Amazon Aurora Using Fault Injection Queries](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/AuroraMySQL.Managing.html#AuroraMySQL.Managing.FaultInjectionQueries)
