@@ -96,6 +96,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [How To Install Distributed Tensorflow on GCP and Perform Chaos Engineering Experiments](https://www.gremlin.com/community/tutorials/how-to-install-distributed-tensorflow-on-gcp-and-perform-chaos-engineering-experiments/)
 * [Monitoring Your Chaos Experiments](https://www.brighttalk.com/webcast/15087/316835)
 * [Increasing the Resilience of APIs with Chaos Engineering](https://www.infoq.com/news/2018/05/gremlin-api-chaos)
+* [3 key steps for running chaos engineering experiments](https://www.infoworld.com/article/3268017/devops/3-key-steps-for-running-chaos-engineering-experiments.html)
 
 ## Notable Tools
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
