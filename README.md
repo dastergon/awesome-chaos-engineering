@@ -73,7 +73,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Kubernetes Chaos Engineering: Lessons Learned](https://learnk8s.io/blog/kubernetes-chaos-engineering-lessons-learned)
 * [Chaos Engineering: managing complexity by breaking things](https://hub.packtpub.com/chaos-engineering-managing-complexity-by-breaking-things/)
 * [Podcast:Database Chaos with Tammy Butow](https://softwareengineeringdaily.com/2018/04/10/database-chaos-with-tammy-butow/)
-
+* [LinkedOut: A Request-Level Failure Injection Framework](https://engineering.linkedin.com/blog/2018/05/linkedout--a-request-level-failure-injection-framework)
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
 * [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html) - 
