@@ -147,7 +147,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [LaunchDarkly Blog](http://blog.launchdarkly.com/) - Continuous delivery and feature flags blog.
 
 ## Conferences & Meetups
-* [Chaos Conf](chaosconf.io) - A day of Chaos Engineering demos, expert advice, and connect with your peers putting chaos into practice at their companies.
+* [Chaos Conf](https://chaosconf.splashthat.com/) - A day of Chaos Engineering demos, expert advice, and connect with your peers putting chaos into practice at their companies.
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The official SRE conference.
 * [LISA Conferences](https://www.usenix.org/conferences/byname/5) - Prominent conference about SysAdmin/DevOps/SRE.
 * [O'Reilly Velocity Conference](https://conferences.oreilly.com/velocity/) - Prominent conference about Systems Engineering/DevOps/SRE.
