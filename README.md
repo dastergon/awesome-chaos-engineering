@@ -76,6 +76,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [LinkedOut: A Request-Level Failure Injection Framework](https://engineering.linkedin.com/blog/2018/05/linkedout--a-request-level-failure-injection-framework)
 * [GOTO 2018 - Breaking Things on Purpose - Kolton Andrus](https://youtu.be/S89ox7oQn8s) 
 * [Why should Chaos be part of your Distributed Systems Engineering?](https://medium.com/@bbideep/why-should-chaos-be-part-of-your-distributed-systems-engineering-5bcb21497660)
+* [Brian Holt - Chaos Monkeys in Your Browser What Chaos Engineering Means For the Front End](https://www.youtube.com/watch?v=A4_rRj-4Mv0)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
