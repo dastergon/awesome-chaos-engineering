@@ -79,6 +79,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Brian Holt - Chaos Monkeys in Your Browser What Chaos Engineering Means For the Front End](https://www.youtube.com/watch?v=A4_rRj-4Mv0)
 * [Chaos Engineering: Why the World Needs More Resilient Systems](https://www.youtube.com/watch?time_continue=242&v=Khqf0XltR_M)
 * QCon·Beijing 2017: The Practice of Failure Management and Fault Injection at Alibaba E-Commerce Platforms - [video](http://www.infoq.com/cn/presentations/ali-electricity-supplier-fault-management-and-fault-drills-practice) & [speech draft](http://jm.taobao.org/2017/06/22/20170622/) (Chinese speech)
+* [All fun and games until you start with GameDays](https://gocardless.com/blog/game-days-at-gc/)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
