@@ -190,6 +190,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Russ Miles](https://twitter.com/russmiles)
 * [Aaron Rinehart](https://twitter.com/aaronrinehart)
 * [Mikolaj Pawlikowski](https://twitter.com/mikopawlikowski)
+* [Rich Burroughs](https://twitter.com/richburroughs)
 
 ## Contributing
 
