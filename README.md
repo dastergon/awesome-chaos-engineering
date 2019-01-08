@@ -146,6 +146,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Engineering](https://arxiv.org/abs/1702.05843)
 * [A Platform for Automating Chaos Experiments](https://arxiv.org/abs/1702.05849)
 * [A Chaos Engineering System for Live Analysis and Falsification of Exception-handling in the JVM](https://arxiv.org/abs/1805.05246)
+* [TripleAgent: Monitoring, Perturbation And Failure-obliviousness for Automated Resilience Improvement in Java Applications](https://arxiv.org/abs/1812.10706)
 
 ## Blogs & Newsletters
 * [Netflix Technology Blog](https://medium.com/@NetflixTechBlog) - Learn more about how Netflix designs, builds, and operates our systems and engineering organizations.
@@ -165,6 +166,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [O'Reilly Velocity Conference](https://conferences.oreilly.com/velocity/) - Prominent conference about Systems Engineering/DevOps/SRE.
 * [Chaos Engineering Community Meetup Group](https://www.meetup.com/Chaos-Engineering-Community/) - Bay Area Meetup group for Chaos Engineers.
 * [London Chaos Engineering Community](https://www.meetup.com/London-Chaos-Engineering-Community/) _ London Area Meetup group for Chaos Engineers.
+* [Stockholm Chaos Engineering Meetup](https://www.meetup.com/Stockholm-Chaos-Engineering-Community/) Stockholm Meetup group for Chaos Engineers.
 * [Chaos Engineering Community](https://www.meetup.com/pro/chaos/) - A collection of meetups across the globe about Chaos Engineerings.
 
 ## Forums
