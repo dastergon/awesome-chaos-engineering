@@ -193,6 +193,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Aaron Rinehart](https://twitter.com/aaronrinehart)
 * [Mikolaj Pawlikowski](https://twitter.com/mikopawlikowski)
 * [Rich Burroughs](https://twitter.com/richburroughs)
+* [Ana Medina](https://twitter.com/ana_m_medina)
 
 ## Contributing
 
