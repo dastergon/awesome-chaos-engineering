@@ -87,6 +87,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html) - 
 * [The Practice Of Cloud System Administration: Designing and Operating Large Distributed Systems](http://the-cloud-book.com/)
 * [Antifragile Systems and Teams](http://www.oreilly.com/webops-perf/free/antifragile-systems-and-teams.csp)
+* [The InfoQ eMag: Chaos Engineering](https://www.infoq.com/minibooks/emag-chaos-engineering)
 
 ## Education
 * A Chaos Engineering Bootcamp for O'Reilly Velocity 2017 - [Slides](https://speakerdeck.com/tammybutow/chaos-engineering-bootcamp) & [Source code](https://github.com/tammybutow/chaos_engineering_bootcamp)
