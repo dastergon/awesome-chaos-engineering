@@ -81,6 +81,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * QCon·Beijing 2017: The Practice of Failure Management and Fault Injection at Alibaba E-Commerce Platforms - [video](http://www.infoq.com/cn/presentations/ali-electricity-supplier-fault-management-and-fault-drills-practice) & [speech draft](http://jm.taobao.org/2017/06/22/20170622/) (Chinese speech)
 * [All fun and games until you start with GameDays](https://gocardless.com/blog/game-days-at-gc/)
 * [Orchestrating Chaos using Grab's Experimentation Platform](https://engineering.grab.com/chaos-engineering)
+* [Breaking to Learn: Chaos Engineering Explained](https://blog.newrelic.com/engineering/chaos-engineering-explained/)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
