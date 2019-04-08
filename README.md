@@ -21,7 +21,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Community](http://chaos.community/)
 * [Chaos Engineering](https://www.infoq.com/articles/chaos-engineering)
 * [O'Reilly Velocity San Jose 2017: Precision Chaos](https://www.youtube.com/watch?v=C11LNUEaHuo)
-* [The Discipline of Chaos Engineering](https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459)
+* [The Discipline of Chaos Engineering](https://www.gremlin.com/blog/the-discipline-of-chaos-engineering/)
 * [Chaos Monkey for Fun and Profit](https://medium.com/production-ready/chaos-monkey-for-fun-and-profit-87e2f343db31)
 * [Fault Injection in Production: Making the case for resilience testing](https://queue.acm.org/detail.cfm?id=2353017)
 * [Lord of Chaos - Becoming a Chaos Engineer](https://vimeo.com/groups/jz2016/videos/181925286)
@@ -74,7 +74,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Engineering: managing complexity by breaking things](https://hub.packtpub.com/chaos-engineering-managing-complexity-by-breaking-things/)
 * [Podcast:Database Chaos with Tammy Butow](https://softwareengineeringdaily.com/2018/04/10/database-chaos-with-tammy-butow/)
 * [LinkedOut: A Request-Level Failure Injection Framework](https://engineering.linkedin.com/blog/2018/05/linkedout--a-request-level-failure-injection-framework)
-* [GOTO 2018 - Breaking Things on Purpose - Kolton Andrus](https://youtu.be/S89ox7oQn8s) 
+* [GOTO 2018 - Breaking Things on Purpose - Kolton Andrus](https://youtu.be/S89ox7oQn8s)
 * [Why should Chaos be part of your Distributed Systems Engineering?](https://medium.com/@bbideep/why-should-chaos-be-part-of-your-distributed-systems-engineering-5bcb21497660)
 * [Brian Holt - Chaos Monkeys in Your Browser What Chaos Engineering Means For the Front End](https://www.youtube.com/watch?v=A4_rRj-4Mv0)
 * [Chaos Engineering: Why the World Needs More Resilient Systems](https://www.youtube.com/watch?time_continue=242&v=Khqf0XltR_M)
@@ -85,7 +85,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
-* [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html) - 
+* [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html) -
 * [The Practice Of Cloud System Administration: Designing and Operating Large Distributed Systems](http://the-cloud-book.com/)
 * [Antifragile Systems and Teams](http://www.oreilly.com/webops-perf/free/antifragile-systems-and-teams.csp)
 * [The InfoQ eMag: Chaos Engineering](https://www.infoq.com/minibooks/emag-chaos-engineering)
