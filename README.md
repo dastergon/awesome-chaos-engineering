@@ -171,6 +171,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [London Chaos Engineering Community](https://www.meetup.com/London-Chaos-Engineering-Community/) _ London Area Meetup group for Chaos Engineers.
 * [Stockholm Chaos Engineering Meetup](https://www.meetup.com/Stockholm-Chaos-Engineering-Community/) Stockholm Meetup group for Chaos Engineers.
 * [Chaos Engineering Community](https://www.meetup.com/pro/chaos/) - A collection of meetups across the globe about Chaos Engineerings.
+* [Rootconf - India](https://hasgeek.com/rootconf/) - India's largest conference and community on Infrastructure security, DevOps and distributed systems.
 
 ## Forums
 * [Chaos Community Google Group](https://groups.google.com/forum/#!forum/chaos-community)
