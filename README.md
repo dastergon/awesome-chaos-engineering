@@ -110,6 +110,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [3 key steps for running chaos engineering experiments](https://www.infoworld.com/article/3268017/devops/3-key-steps-for-running-chaos-engineering-experiments.html)
 * [Exploring Multi-level Weaknesses using Automated Chaos Experiments](https://medium.com/chaosiq/exploring-multi-level-weaknesses-using-automated-chaos-experiments-aa30f0605ce)
 * [Chaos Monkey Guide for Engineers](https://www.gremlin.com/chaos-monkey/)
+* [Chaos Engineering for Serverless](https://www.youtube.com/playlist?list=PL70SCo-0vujiQkPAOGuZP-kNZZkzcPVKD)
 
 ## Notable Tools
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
