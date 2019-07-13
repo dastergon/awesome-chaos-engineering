@@ -83,6 +83,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Orchestrating Chaos using Grab's Experimentation Platform](https://engineering.grab.com/chaos-engineering)
 * [Breaking to Learn: Chaos Engineering Explained](https://blog.newrelic.com/engineering/chaos-engineering-explained/)
 * [Chaos Engineering Traps](https://medium.com/@njones_18523/chaos-engineering-traps-e3486c526059)
+* [Chaos Engineering - The Art of Breaking Things Purposefully](https://medium.com/@adhorn/chaos-engineering-ab0cc9fbd12a)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
