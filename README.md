@@ -83,6 +83,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Orchestrating Chaos using Grab's Experimentation Platform](https://engineering.grab.com/chaos-engineering)
 * [Breaking to Learn: Chaos Engineering Explained](https://blog.newrelic.com/engineering/chaos-engineering-explained/)
 * [Chaos Engineering Traps](https://medium.com/@njones_18523/chaos-engineering-traps-e3486c526059)
+* [Chaos Engineering - The Art of Breaking Things Purposefully](https://medium.com/@adhorn/chaos-engineering-ab0cc9fbd12a)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
@@ -110,6 +111,8 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [3 key steps for running chaos engineering experiments](https://www.infoworld.com/article/3268017/devops/3-key-steps-for-running-chaos-engineering-experiments.html)
 * [Exploring Multi-level Weaknesses using Automated Chaos Experiments](https://medium.com/chaosiq/exploring-multi-level-weaknesses-using-automated-chaos-experiments-aa30f0605ce)
 * [Chaos Monkey Guide for Engineers](https://www.gremlin.com/chaos-monkey/)
+* [Chaos Engineering for Serverless](https://www.youtube.com/playlist?list=PL70SCo-0vujiQkPAOGuZP-kNZZkzcPVKD)
+* [Network Fire Drills with Chaos Engineering](https://speakerdeck.com/homingli/network-automation-meetup-network-fire-drills-with-chaos-engineering)
 
 ## Notable Tools
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
@@ -140,6 +143,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Cthulhu](https://github.com/xmatters/cthulhu-chaos-testing) - Chaos Engineering tool that helps evaluating the resiliency of microservice systems simulating various disaster scenarios against a target infrastructure in a data-driven manner.
 * [VMware Mangle](https://vmware.github.io/mangle/) - Orchestrating Chaos Engineering.
 * [Byteman](https://byteman.jboss.org/) - A Swiss Army Knife for Byte Code Manipulation.
+* [Litmus](https://github.com/litmuschaos/litmus) - Framework for Kubernetes environments that enables users to run test suites, capture logs, generate reports and perform chaos tests.
 * [Perses](https://github.com/nicolasmanic/perses) A project to cause (controlled) destruction to a JVM application
 
 ## Cloud Services
