@@ -144,6 +144,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [VMware Mangle](https://vmware.github.io/mangle/) - Orchestrating Chaos Engineering.
 * [Byteman](https://byteman.jboss.org/) - A Swiss Army Knife for Byte Code Manipulation.
 * [Litmus](https://github.com/litmuschaos/litmus) - Framework for Kubernetes environments that enables users to run test suites, capture logs, generate reports and perform chaos tests.
+* [Perses](https://github.com/nicolasmanic/perses) A project to cause (controlled) destruction to a JVM application
 
 ## Cloud Services
 * [Testing Amazon Aurora Using Fault Injection Queries](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/AuroraMySQL.Managing.html#AuroraMySQL.Managing.FaultInjectionQueries)
