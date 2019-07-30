@@ -143,6 +143,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Cthulhu](https://github.com/xmatters/cthulhu-chaos-testing) - Chaos Engineering tool that helps evaluating the resiliency of microservice systems simulating various disaster scenarios against a target infrastructure in a data-driven manner.
 * [VMware Mangle](https://vmware.github.io/mangle/) - Orchestrating Chaos Engineering.
 * [Byteman](https://byteman.jboss.org/) - A Swiss Army Knife for Byte Code Manipulation.
+* [Litmus](https://github.com/litmuschaos/litmus) - Framework for Kubernetes environments that enables users to run test suites, capture logs, generate reports and perform chaos tests.
 
 ## Cloud Services
 * [Testing Amazon Aurora Using Fault Injection Queries](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/AuroraMySQL.Managing.html#AuroraMySQL.Managing.FaultInjectionQueries)
