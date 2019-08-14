@@ -213,6 +213,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Rich Burroughs](https://twitter.com/richburroughs)
 * [Ana Medina](https://twitter.com/ana_m_medina)
 * [Chaos Engineering Retweet Bot](https://twitter.com/serverlesschaos)
+* [Gunnar Grosch](https://twitter.com/gunnargrosch)
 
 ## Contributing
 
