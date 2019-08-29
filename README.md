@@ -22,7 +22,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Engineering](https://www.infoq.com/articles/chaos-engineering)
 * [O'Reilly Velocity San Jose 2017: Precision Chaos](https://www.youtube.com/watch?v=C11LNUEaHuo)
 * [The Discipline of Chaos Engineering](https://www.gremlin.com/blog/the-discipline-of-chaos-engineering/)
-* [Chaos Monkey for Fun and Profit](https://medium.com/production-ready/chaos-monkey-for-fun-and-profit-87e2f343db31)
+* [Chaos Monkey for Fun and Profit](https://sharpend.io/chaos-monkey-for-fun-and-profit/)
 * [Fault Injection in Production: Making the case for resilience testing](https://queue.acm.org/detail.cfm?id=2353017)
 * [Lord of Chaos - Becoming a Chaos Engineer](https://vimeo.com/groups/jz2016/videos/181925286)
 * [Chaos testing - Preventing failure by instigation](http://www.cakesolutions.net/teamblogs/chaos-testing-preventing-failure-by-instiga)
