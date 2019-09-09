@@ -163,6 +163,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [A Platform for Automating Chaos Experiments](https://arxiv.org/abs/1702.05849)
 * [A Chaos Engineering System for Live Analysis and Falsification of Exception-handling in the JVM](https://arxiv.org/abs/1805.05246)
 * [TripleAgent: Monitoring, Perturbation And Failure-obliviousness for Automated Resilience Improvement in Java Applications](https://arxiv.org/abs/1812.10706)
+* [Lineage-driven Fault Injection](https://dl.acm.org/citation.cfm?id=2723711)
 
 ## Blogs & Newsletters
 * [Netflix Technology Blog](https://medium.com/@NetflixTechBlog) - Learn more about how Netflix designs, builds, and operates our systems and engineering organizations.
