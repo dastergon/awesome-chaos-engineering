@@ -197,6 +197,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [CNCF Chaos Engineering Working Group](https://groups.google.com/forum/#!forum/chaoseng-wg)
 * CNCF Chaos Engineering Working Group Slack: #chaosengineering (slack.cncf.io)
 * [CNCF Chaos Engineering Working Group Github](https://github.com/chaoseng/wg-chaoseng)
+* [Chaos Toolkit Slack Community](https://join.chaostoolkit.org)
 
 ## Twitter
 * [Aaron Blohowiak](https://twitter.com/aaronblohowiak)
