@@ -93,6 +93,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [The Practice Of Cloud System Administration: Designing and Operating Large Distributed Systems](http://the-cloud-book.com/)
 * [Antifragile Systems and Teams](http://www.oreilly.com/webops-perf/free/antifragile-systems-and-teams.csp)
 * [The InfoQ eMag: Chaos Engineering](https://www.infoq.com/minibooks/emag-chaos-engineering)
+* [Learning Chaos Engineering](http://shop.oreilly.com/product/0636920251897.do)
 
 ## Education
 * A Chaos Engineering Bootcamp for O'Reilly Velocity 2017 - [Slides](https://speakerdeck.com/tammybutow/chaos-engineering-bootcamp) & [Source code](https://github.com/tammybutow/chaos_engineering_bootcamp)
