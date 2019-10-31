@@ -87,6 +87,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Disasterpiece Theater: Slack’s process for approachable Chaos Engineering](https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering-3434422afb54)
 * [Taming chaos: Preparing for your next incident](https://www.oreilly.com/ideas/taming-chaos-preparing-for-your-next-incident)
 * [The Future of Chaos Engineering w/ Conde Nast](https://www.youtube.com/watch?v=RqM2sMt11Bw)
+* [Chaos Engineering For People Systems w/ Dave Rensin of Google](https://www.youtube.com/watch?v=sn6wokyCZSA)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
