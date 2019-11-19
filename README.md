@@ -192,6 +192,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [London Chaos Engineering Community](https://www.meetup.com/London-Chaos-Engineering-Community/) _ London Area Meetup group for Chaos Engineers.
 * [Stockholm Chaos Engineering Meetup](https://www.meetup.com/Stockholm-Chaos-Engineering-Community/) Stockholm Meetup group for Chaos Engineers.
 * [Chaos Engineering Community](https://www.meetup.com/pro/chaos/) - A collection of meetups across the globe about Chaos Engineerings.
+* [Conf42.com: Chaos Engineering](https://conf42.com) - Chaos Engineering for practitioners and adopters - London UK, 23 Jan 2020.
 
 ## Forums
 * [Chaos Community Google Group](https://groups.google.com/forum/#!forum/chaos-community)
