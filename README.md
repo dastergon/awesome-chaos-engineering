@@ -119,6 +119,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Engineering for Serverless](https://www.youtube.com/playlist?list=PL70SCo-0vujiQkPAOGuZP-kNZZkzcPVKD)
 * [Network Fire Drills with Chaos Engineering](https://speakerdeck.com/homingli/network-automation-meetup-network-fire-drills-with-chaos-engineering)
 * [Dev Ops Foundations: Chaos Engineering](https://www.linkedin.com/learning/devops-foundations-chaos-engineering/)
+* [Resilience Engineering: Short Course)(http://csel.org.ohio-state.edu/ResilienceEngineering.html)
 
 ## Notable Tools
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
