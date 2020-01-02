@@ -153,6 +153,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Litmus](https://github.com/litmuschaos/litmus) - Framework for Kubernetes environments that enables users to run test suites, capture logs, generate reports and perform chaos tests.
 * [Perses](https://github.com/nicolasmanic/perses) - A project to cause (controlled) destruction to a JVM application.
 * [ChaosKube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster. 
+* [Chaos-Mesh](https://github.com/pingcap/chaos-mesh) - Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
 
 ## Cloud Services
 * [Testing Amazon Aurora Using Fault Injection Queries](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/AuroraMySQL.Managing.html#AuroraMySQL.Managing.FaultInjectionQueries)
