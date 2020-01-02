@@ -22,7 +22,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Engineering](https://www.infoq.com/articles/chaos-engineering)
 * [O'Reilly Velocity San Jose 2017: Precision Chaos](https://www.youtube.com/watch?v=C11LNUEaHuo)
 * [The Discipline of Chaos Engineering](https://www.gremlin.com/blog/the-discipline-of-chaos-engineering/)
-* [Chaos Monkey for Fun and Profit](https://medium.com/production-ready/chaos-monkey-for-fun-and-profit-87e2f343db31)
+* [Chaos Monkey for Fun and Profit](https://sharpend.io/chaos-monkey-for-fun-and-profit/)
 * [Fault Injection in Production: Making the case for resilience testing](https://queue.acm.org/detail.cfm?id=2353017)
 * [Lord of Chaos - Becoming a Chaos Engineer](https://vimeo.com/groups/jz2016/videos/181925286)
 * [Chaos testing - Preventing failure by instigation](http://www.cakesolutions.net/teamblogs/chaos-testing-preventing-failure-by-instiga)
@@ -82,6 +82,12 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [All fun and games until you start with GameDays](https://gocardless.com/blog/game-days-at-gc/)
 * [Orchestrating Chaos using Grab's Experimentation Platform](https://engineering.grab.com/chaos-engineering)
 * [Breaking to Learn: Chaos Engineering Explained](https://blog.newrelic.com/engineering/chaos-engineering-explained/)
+* [Chaos Engineering Traps](https://medium.com/@njones_18523/chaos-engineering-traps-e3486c526059)
+* [Chaos Engineering - The Art of Breaking Things Purposefully](https://medium.com/@adhorn/chaos-engineering-ab0cc9fbd12a)
+* [Disasterpiece Theater: Slack’s process for approachable Chaos Engineering](https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering-3434422afb54)
+* [Taming chaos: Preparing for your next incident](https://www.oreilly.com/ideas/taming-chaos-preparing-for-your-next-incident)
+* [The Future of Chaos Engineering w/ Conde Nast](https://www.youtube.com/watch?v=RqM2sMt11Bw)
+* [Chaos Engineering For People Systems w/ Dave Rensin of Google](https://www.youtube.com/watch?v=sn6wokyCZSA)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
@@ -89,6 +95,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [The Practice Of Cloud System Administration: Designing and Operating Large Distributed Systems](http://the-cloud-book.com/)
 * [Antifragile Systems and Teams](http://www.oreilly.com/webops-perf/free/antifragile-systems-and-teams.csp)
 * [The InfoQ eMag: Chaos Engineering](https://www.infoq.com/minibooks/emag-chaos-engineering)
+* [Learning Chaos Engineering](http://shop.oreilly.com/product/0636920251897.do)
 
 ## Education
 * A Chaos Engineering Bootcamp for O'Reilly Velocity 2017 - [Slides](https://speakerdeck.com/tammybutow/chaos-engineering-bootcamp) & [Source code](https://github.com/tammybutow/chaos_engineering_bootcamp)
@@ -109,6 +116,10 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [3 key steps for running chaos engineering experiments](https://www.infoworld.com/article/3268017/devops/3-key-steps-for-running-chaos-engineering-experiments.html)
 * [Exploring Multi-level Weaknesses using Automated Chaos Experiments](https://medium.com/chaosiq/exploring-multi-level-weaknesses-using-automated-chaos-experiments-aa30f0605ce)
 * [Chaos Monkey Guide for Engineers](https://www.gremlin.com/chaos-monkey/)
+* [Chaos Engineering for Serverless](https://www.youtube.com/playlist?list=PL70SCo-0vujiQkPAOGuZP-kNZZkzcPVKD)
+* [Network Fire Drills with Chaos Engineering](https://speakerdeck.com/homingli/network-automation-meetup-network-fire-drills-with-chaos-engineering)
+* [Dev Ops Foundations: Chaos Engineering](https://www.linkedin.com/learning/devops-foundations-chaos-engineering/)
+* [Resilience Engineering: Short Course)(http://csel.org.ohio-state.edu/ResilienceEngineering.html)
 
 ## Notable Tools
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
@@ -136,14 +147,20 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Turbulence](https://github.com/cppforlife/turbulence-release) - Tool focused on BOSH environments capable of stressing VMs, manipulating network traffic, and more. It is very simmilar to Gremlin.
 * [chaosblade](https://github.com/chaosblade-io/chaosblade) - An Easy to Use and Powerful Chaos Engineering Toolkit.
 * [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) - Gamfied Chaos engineering tool for Kubernetes Clusters
+* [Cthulhu](https://github.com/xmatters/cthulhu-chaos-testing) - Chaos Engineering tool that helps evaluating the resiliency of microservice systems simulating various disaster scenarios against a target infrastructure in a data-driven manner.
+* [VMware Mangle](https://vmware.github.io/mangle/) - Orchestrating Chaos Engineering.
+* [Byteman](https://byteman.jboss.org/) - A Swiss Army Knife for Byte Code Manipulation.
+* [Litmus](https://github.com/litmuschaos/litmus) - Framework for Kubernetes environments that enables users to run test suites, capture logs, generate reports and perform chaos tests.
+* [Perses](https://github.com/nicolasmanic/perses) - A project to cause (controlled) destruction to a JVM application.
+* [ChaosKube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster. 
 
 ## Cloud Services
 * [Testing Amazon Aurora Using Fault Injection Queries](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/AuroraMySQL.Managing.html#AuroraMySQL.Managing.FaultInjectionQueries)
 * [Azure Fault Analysis Service](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-testability-overview), see also [Include controlled Chaos in Service Fabric clusters](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-controlled-chaos)
 
 ## Papers
+* [Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently](https://www.usenix.org/system/files/osdi18-veeraraghavan.pdf)
 * [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
-* [Lineage-driven Fault Injection](https://people.eecs.berkeley.edu/~palvaro/molly.pdf)
 * [Automating Failure Testing Research at Internet Scale ](https://people.ucsc.edu/~palvaro/fit-ldfi.pdf)
 * [Principles of Antifragile Software](https://arxiv.org/abs/1404.3056)
 * [Why is random testing effective for partition tolerance bugs?](https://dl.acm.org/citation.cfm?id=3177123.3158134)
@@ -151,6 +168,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [A Platform for Automating Chaos Experiments](https://arxiv.org/abs/1702.05849)
 * [A Chaos Engineering System for Live Analysis and Falsification of Exception-handling in the JVM](https://arxiv.org/abs/1805.05246)
 * [TripleAgent: Monitoring, Perturbation And Failure-obliviousness for Automated Resilience Improvement in Java Applications](https://arxiv.org/abs/1812.10706)
+* [Lineage-driven Fault Injection](https://dl.acm.org/citation.cfm?id=2723711)
 
 ## Blogs & Newsletters
 * [Netflix Technology Blog](https://medium.com/@NetflixTechBlog) - Learn more about how Netflix designs, builds, and operates our systems and engineering organizations.
@@ -175,6 +193,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [London Chaos Engineering Community](https://www.meetup.com/London-Chaos-Engineering-Community/) _ London Area Meetup group for Chaos Engineers.
 * [Stockholm Chaos Engineering Meetup](https://www.meetup.com/Stockholm-Chaos-Engineering-Community/) Stockholm Meetup group for Chaos Engineers.
 * [Chaos Engineering Community](https://www.meetup.com/pro/chaos/) - A collection of meetups across the globe about Chaos Engineerings.
+* [Conf42.com: Chaos Engineering](https://conf42.com) - Chaos Engineering for practitioners and adopters - London UK, 23 Jan 2020.
 
 ## Forums
 * [Chaos Community Google Group](https://groups.google.com/forum/#!forum/chaos-community)
@@ -183,6 +202,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [CNCF Chaos Engineering Working Group](https://groups.google.com/forum/#!forum/chaoseng-wg)
 * CNCF Chaos Engineering Working Group Slack: #chaosengineering (slack.cncf.io)
 * [CNCF Chaos Engineering Working Group Github](https://github.com/chaoseng/wg-chaoseng)
+* [Chaos Toolkit Slack Community](https://join.chaostoolkit.org)
 
 ## Twitter
 * [Aaron Blohowiak](https://twitter.com/aaronblohowiak)
@@ -202,6 +222,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Rich Burroughs](https://twitter.com/richburroughs)
 * [Ana Medina](https://twitter.com/ana_m_medina)
 * [Chaos Engineering Retweet Bot](https://twitter.com/serverlesschaos)
+* [Gunnar Grosch](https://twitter.com/gunnargrosch)
 
 ## Contributing
 
