@@ -11,6 +11,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 - [Education](#education)
 - [Notable Tools](#notable-tools)
 - [Papers](#papers)
+- [Gamedays](#gamedays)
 - [Blogs & Newsletters](#blogs--newsletters)
 - [Conferences & Meetups](#conferences--meetups)
 - [Forums](#forums)
@@ -61,7 +62,6 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Day in the Met Office Cloud](https://www.cloudreach.com/fr/blog/training-cloud-operations-teams-met-office/)
 * [Cloud Native and Chaos Engineering](https://medium.com/chaosiq/cloud-native-and-chaos-engineering-20842ee2fa8a)
 * [Chaos Engineering with Kolton Andrus](https://softwareengineeringdaily.com/2018/02/02/chaos-engineering-with-kolton-andrus/)
-* ["GameDay" – Achieving Resilience through Chaos Engineering](https://www.infoq.com/presentations/gameday-chaos-engineering)
 * [Chaos Engineering: the history, principles, and practice](https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/)
 * [Embracing the Chaos of Chaos Engineering](https://blog.codeship.com/embracing-the-chaos-of-chaos-engineering/)
 * [Designing Services for Resilience: Netflix Lessons](https://www.infoq.com/presentations/netflix-microservices-resiliency)
@@ -79,7 +79,6 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Brian Holt - Chaos Monkeys in Your Browser What Chaos Engineering Means For the Front End](https://www.youtube.com/watch?v=A4_rRj-4Mv0)
 * [Chaos Engineering: Why the World Needs More Resilient Systems](https://www.youtube.com/watch?time_continue=242&v=Khqf0XltR_M)
 * QCon·Beijing 2017: The Practice of Failure Management and Fault Injection at Alibaba E-Commerce Platforms - [video](http://www.infoq.com/cn/presentations/ali-electricity-supplier-fault-management-and-fault-drills-practice) & [speech draft](http://jm.taobao.org/2017/06/22/20170622/) (Chinese speech)
-* [All fun and games until you start with GameDays](https://gocardless.com/blog/game-days-at-gc/)
 * [Orchestrating Chaos using Grab's Experimentation Platform](https://engineering.grab.com/chaos-engineering)
 * [Breaking to Learn: Chaos Engineering Explained](https://blog.newrelic.com/engineering/chaos-engineering-explained/)
 * [Chaos Engineering Traps](https://medium.com/@njones_18523/chaos-engineering-traps-e3486c526059)
@@ -104,7 +103,6 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [A Primer on Automating Chaos](https://blog.gremlininc.com/a-primer-on-automating-chaos-84ff4b053be0)
 * [Intro to Chaos Engineering](https://www.youtube.com/watch?v=qHykK5pFRW4)
 * [Learn the basics of the Chaos Toolkit](https://www.katacoda.com/chaostoolkit/courses/01-chaostoolkit-getting-started)
-* [How to Run a GameDay](https://www.gremlin.com/community/tutorials/how-to-run-a-gameday/)
 * [Build System Confidence with Chaos Engineering](https://medium.com/chaosiq/improve-your-cloud-native-devops-flow-with-chaos-engineering-dc32836c2d9a)
 * [How we break things at Twitter: failure testing](https://blog.twitter.com/engineering/en_us/a/2015/how-we-break-things-at-twitter-failure-testing.html)
 * [Run Chaos Experiments Without Risking Your Job](https://blog.loadmill.com/run-chaos-experiments-without-risking-your-job-2c8a5f4b0bfc)
@@ -171,6 +169,24 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [TripleAgent: Monitoring, Perturbation And Failure-obliviousness for Automated Resilience Improvement in Java Applications](https://arxiv.org/abs/1812.10706)
 * [Lineage-driven Fault Injection](https://dl.acm.org/citation.cfm?id=2723711)
 
+## Gamedays
+* [Target: What is a Gameday?](https://tech.target.com/2019/05/09/chaos-engineering-at-Target.html) - Chaos Gamedays experience by Target.
+* [Codecentric: Chaos Engineering Gamedays](https://blog.codecentric.de/en/2018/08/chaos-engineering-gameday/) - Chaos Gamedays by Codecentric.
+* [New Relic: How to run a Gameday?](https://blog.newrelic.com/engineering/how-to-run-a-game-day/) - Chaos Gamedays experience by New Relic.
+* [Dius: Gamedays resources](https://dius.com.au/resources/game-day/) - Resources for getting started with GameDay and Chaos Engineering.
+* [Gremlin: Gamedays](https://www.gremlin.com/gameday/) - Resources for getting started with GameDay and Chaos Engineering.
+* [Gremlin: What is a Chaos Day?](https://www.gremlin.com/community/tutorials/planning-your-own-chaos-day/#what-is-a-chaos-day) - What is a Gameday according Gremlin.
+* [Gremlin: Why run a Chaos Day?](https://www.gremlin.com/community/tutorials/planning-your-own-chaos-day/#why-run-a-chaos-day) - Reasons to run Gamedays according Gremlin.
+* [Gremlin: How to run a Gameday?](https://www.gremlin.com/community/tutorials/how-to-run-a-gameday/) - Methodology to run Gamedays according Gremlin. 
+* [Gremlin DB: Breaking Dynamo DB](https://www.gremlin.com/community/tutorials/gremlin-gameday-breaking-dynamodb/) - Example of a Gameday with DynamoDB by Gremlin.
+* [Gremlin: Introduction to Gameday](https://www.gremlin.com/community/tutorials/introduction-to-gamedays/) - What is a Gameday according Gremlin.
+* [Gremlin: Planning your own Chaos Day](https://www.gremlin.com/community/tutorials/planning-your-own-chaos-day/) - Example of a Gameday with DynamoDB by Gremlin.
+* [Gremlin: Inside Gremlin 2019 Gremlin Gamedays Roadmap](https://www.gremlin.com/community/tutorials/inside-gremlin-2019-gremlin-gamedays-roadmap/) - Chaos Gamedays experience by Gremlin.
+* [Gremlin: What I lerned running the Chaos Lab with Kafka](https://www.gremlin.com/community/tutorials/what-i-learned-running-the-chaos-lab-kafka-breaks/) - Example of a Gameday with Kafka by Gremlin.
+* [Chaos Toolkit: Chaos Engineering with Humans in the loop](https://medium.com/chaos-toolkit/chaos-engineering-with-humans-in-the-loop-f4854900b1eb) - Article about Chaos Gamedays.
+* [GooCardless: All fun and games until you start with Gamedays](https://gocardless.com/blog/game-days-at-gc/) - Article about Chaos Gamedays.
+* [InfoQ: Gamedays - Achieving Resilience through Chaos Engineering](https://www.infoq.com/presentations/gameday-chaos-engineering) - InfoQ Presentation with experiences about Chaos Gamedays.
+
 ## Blogs & Newsletters
 * [Netflix Technology Blog](https://medium.com/@NetflixTechBlog) - Learn more about how Netflix designs, builds, and operates our systems and engineering organizations.
 * [Production Ready](https://tinyletter.com/production-ready) - A mailing list about building resilient infrastructure and tools.
@@ -179,7 +195,6 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [SysAdvent](https://sysadvent.blogspot.com) - One article for each day of December, ending on the 25th article.
 * [Gremlin Blog](https://blog.gremlininc.com) - Blogs on Chaos Engineering from Gremlin Inc.
 * [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - Weekly systems engineering and operations news and insights from industry insiders.
-* [GameDay Resources](https://dius.com.au/resources/game-day/) - Resources for getting started with GameDay and Chaos Engineering.
 * [LaunchDarkly Blog](http://blog.launchdarkly.com/) - Continuous delivery and feature flags blog.
 * [Verica](https://www.verica.io/) - Chaos engineering, security chaos engineering and continuous verification.
 
