@@ -153,6 +153,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [ChaosKube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster. 
 * [Chaos-Mesh](https://github.com/pingcap/chaos-mesh) - Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
 * [chaosmesh](https://www.chaosmesh.com/) - A Chaos Engineering platform (SaaS or On-Prem) with auto discovery features, different attack types, user management and many more. (don't mix up with the different spelled "Chaos-Mesh" above)
+* [failure-lambda](https://github.com/gunnargrosch/failure-lambda) - A small Node module for injecting failure into AWS Lambda using latency, exception, statuscode or diskspace.
 
 
 ## Cloud Services
