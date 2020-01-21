@@ -153,6 +153,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [ChaosKube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster. 
 * [Chaos-Mesh](https://github.com/pingcap/chaos-mesh) - Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
 * [chaosmesh](https://www.chaosmesh.com/) - A Chaos Engineering platform (SaaS or On-Prem) with auto discovery features, different attack types, user management and many more. (don't mix up with the different spelled "Chaos-Mesh" above)
+* [Chaos Engine](https://github.com/gemalto/chaos-engine) - A Chaos Engineering orchestrator running random experiments against AWS, Kubernetes, Cloud Foundry
 
 
 ## Cloud Services
