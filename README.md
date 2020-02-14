@@ -119,6 +119,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Network Fire Drills with Chaos Engineering](https://speakerdeck.com/homingli/network-automation-meetup-network-fire-drills-with-chaos-engineering)
 * [Dev Ops Foundations: Chaos Engineering](https://www.linkedin.com/learning/devops-foundations-chaos-engineering/)
 * [Resilience Engineering: Short Course)(http://csel.org.ohio-state.edu/ResilienceEngineering.html)
+* [The Chaos Engineering Collection](https://medium.com/@adhorn/the-chaos-engineering-collection-5e188d6a90e2)
 
 ## Notable Tools
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
@@ -155,6 +156,9 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos-Mesh](https://github.com/pingcap/chaos-mesh) - Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
 * [chaosmesh](https://www.chaosmesh.com/) - A Chaos Engineering platform (SaaS or On-Prem) with auto discovery features, different attack types, user management and many more. (don't mix up with the different spelled "Chaos-Mesh" above)
 * [failure-lambda](https://github.com/gunnargrosch/failure-lambda) - A small Node module for injecting failure into AWS Lambda using latency, exception, statuscode or diskspace.
+* [aws-chaos-scripts] (https://github.com/adhorn/aws-chaos-scripts) - Collection of python scripts to run failure injection on AWS infrastructure
+* [chaos-ssm-documents] (https://github.com/adhorn/chaos-ssm-documents) - Collection of AWS SSM Documents to perform Chaos Engineering experiments
+* [chaos-lambda] (https://github.com/adhorn/aws-lambda-chaos-injection) - A library injecting chaos into AWS Lambda. It offers simple python decorators to do delay, exception and statusCode injection and a Class to add delay to any 3rd party dependencies. 
 
 
 ## Cloud Services
@@ -244,6 +248,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Ana Medina](https://twitter.com/ana_m_medina)
 * [Chaos Engineering Retweet Bot](https://twitter.com/serverlesschaos)
 * [Gunnar Grosch](https://twitter.com/gunnargrosch)
+* [Adrian Hornsby](https://twitter.com/adhorn)
 
 ## Contributing
 
