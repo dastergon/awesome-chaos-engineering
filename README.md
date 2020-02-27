@@ -158,7 +158,11 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [failure-lambda](https://github.com/gunnargrosch/failure-lambda) - A small Node module for injecting failure into AWS Lambda using latency, exception, statuscode or diskspace.
 * [aws-chaos-scripts](https://github.com/adhorn/aws-chaos-scripts) - Collection of python scripts to run failure injection on AWS infrastructure
 * [chaos-ssm-documents](https://github.com/adhorn/chaos-ssm-documents) - Collection of AWS SSM Documents to perform Chaos Engineering experiments
-* [aws-lambda-chaos-injection](https://github.com/adhorn/aws-lambda-chaos-injection) - A library injecting chaos into AWS Lambda. It offers simple python decorators to do delay, exception and statusCode injection and a Class to add delay to any 3rd party dependencies. 
+* [aws-lambda-chaos-injection](https://github.com/adhorn/aws-lambda-chaos-injection) - A library injecting chaos into AWS Lambda. It offers simple python decorators to do delay, exception and statusCode injection and a Class to add delay to any 3rd party dependencies.
+* [chaos-dingo](https://github.com/jmspring/chaos-dingo) - A tool to mess with Azure services using the Azure NodeJS SDK.
+* [Chaos HTTP Proxy](https://github.com/bouncestorage/chaos-http-proxy) - Introduce failures into HTTP requests via a proxy server
+* [Chaos Lemur](https://github.com/strepsirrhini-army/chaos-lemur) - A self-hostable application to randomly destroy virtual machines in a BOSH-managed environment
+* [Simoorg](https://github.com/linkedin/simoorg) - Linkedin’s very own failure inducer framework.
 
 
 ## Cloud Services
