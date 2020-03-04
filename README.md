@@ -163,6 +163,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos HTTP Proxy](https://github.com/bouncestorage/chaos-http-proxy) - Introduce failures into HTTP requests via a proxy server
 * [Chaos Lemur](https://github.com/strepsirrhini-army/chaos-lemur) - A self-hostable application to randomly destroy virtual machines in a BOSH-managed environment
 * [Simoorg](https://github.com/linkedin/simoorg) - Linkedin’s very own failure inducer framework.
+* [react-chaos](https://www.datadoghq.com/) - A chaos engineering tool for your React apps
 
 
 ## Cloud Services
