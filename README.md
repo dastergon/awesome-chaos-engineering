@@ -99,9 +99,9 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 
 ## Education
 * A Chaos Engineering Bootcamp for O'Reilly Velocity 2017 - [Slides](https://speakerdeck.com/tammybutow/chaos-engineering-bootcamp) & [Source code](https://github.com/tammybutow/chaos_engineering_bootcamp)
-* [Your First Chaos Experiment](https://blog.gremlininc.com/your-first-chaos-experiment-321ec4468bce)
-* [Chaos Engineering 101](https://medium.com/production-ready/chaos-engineering-101-1103059fae44)
-* [A Primer on Automating Chaos](https://blog.gremlininc.com/a-primer-on-automating-chaos-84ff4b053be0)
+* [Your First Chaos Experiment](https://www.gremlin.com/community/tutorials/your-first-chaos-experiment)
+* [Chaos Engineering 101](https://sharpend.io/chaos-engineering-101/)
+* [A Primer on Automating Chaos](https://www.gremlin.com/community/tutorials/a-primer-on-automating-chaos)
 * [Intro to Chaos Engineering](https://www.youtube.com/watch?v=qHykK5pFRW4)
 * [Learn the basics of the Chaos Toolkit](https://www.katacoda.com/chaostoolkit/courses/01-chaostoolkit-getting-started)
 * [Build System Confidence with Chaos Engineering](https://medium.com/chaosiq/improve-your-cloud-native-devops-flow-with-chaos-engineering-dc32836c2d9a)
