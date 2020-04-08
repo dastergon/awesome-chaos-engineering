@@ -93,6 +93,8 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Preparing for Traffic Spikes with Chaos Engineering](https://www.bigmarker.com/gremlin/Preparing-for-Traffic-Spikes-with-Chaos-Engineering)
 * [Automating Chaos Engineering GameDays with Terraform](https://www.youtube.com/watch?v=NOOgKNbW0gk)
 * [Postmortem Culture: Learning from failure](https://www.youtube.com/watch?v=JtLrlDNdJzg&feature=youtu.be)
+* [Problem Detection by John Allspaw](https://www.youtube.com/watch?v=NxctiGRI2y8)
+* [New Paradigms for the Next Era of Security](https://www.rsaconference.com/industry-topics/webcast/35-new-paradigms-for-the-next-era-of-security)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
@@ -125,6 +127,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Dev Ops Foundations: Chaos Engineering](https://www.linkedin.com/learning/devops-foundations-chaos-engineering/)
 * [Resilience Engineering: Short Course)(http://csel.org.ohio-state.edu/ResilienceEngineering.html)
 * [The Chaos Engineering Collection](https://medium.com/@adhorn/the-chaos-engineering-collection-5e188d6a90e2)
+* [PenTester Academic](https://www.pentesteracademy.com/onlinelabs)
 
 ## Notable Tools
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
@@ -174,6 +177,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 ## Cloud Services
 * [Testing Amazon Aurora Using Fault Injection Queries](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/AuroraMySQL.Managing.html#AuroraMySQL.Managing.FaultInjectionQueries)
 * [Azure Fault Analysis Service](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-testability-overview), see also [Include controlled Chaos in Service Fabric clusters](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-controlled-chaos)
+* [Security Chaos Engineering for Cloud Services](https://medium.com/@run2obtain/from-resilience-to-dependability-security-chaos-engineering-for-cloud-services-9c6d6d152ed2)
 
 ## Papers
 * [Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently](https://www.usenix.org/system/files/osdi18-veeraraghavan.pdf)
@@ -186,6 +190,10 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [A Chaos Engineering System for Live Analysis and Falsification of Exception-handling in the JVM](https://arxiv.org/abs/1805.05246)
 * [TripleAgent: Monitoring, Perturbation And Failure-obliviousness for Automated Resilience Improvement in Java Applications](https://arxiv.org/abs/1812.10706)
 * [Lineage-driven Fault Injection](https://dl.acm.org/citation.cfm?id=2723711)
+* [Antifragility is a Fragile Concept](https://www.linkedin.com/pulse/antifragility-fragile-concept-casey-rosenthal/)
+* [Chaos Engineering Security](https://jaxenter.com/chaos-engineering-security-163358.html)
+* [Security Chaos Engineering: A new paradigm for cybersecurity](https://opensource.com/article/18/1/new-paradigm-cybersecurity)
+* [Security Challenges around Chaos Engineering](https://www.conjur.org/blog/security-challenges-around-chaos-engineering/)
 
 ## Gamedays
 * [Target: What is a Gameday?](https://tech.target.com/2019/05/09/chaos-engineering-at-Target.html) - Chaos Gamedays experience by Target.
