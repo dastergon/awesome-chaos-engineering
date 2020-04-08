@@ -88,6 +88,11 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [The Future of Chaos Engineering w/ Conde Nast](https://www.youtube.com/watch?v=RqM2sMt11Bw)
 * [Chaos Engineering For People Systems w/ Dave Rensin of Google](https://www.youtube.com/watch?v=sn6wokyCZSA)
 * [Performing chaos engineering in a serverless world (AWS re:Invent 2019 CMY301)](https://www.youtube.com/watch?v=vbyjpMeYitA)
+* [Building Confidence in Healthcare Systems through Chaos Engineering](https://www.infoq.com/presentations/cerner-resiliency)
+* [Break Your App before Someone Else Does](https://www.infoq.com/presentations/test-android-apk/)
+* [Preparing for Traffic Spikes with Chaos Engineering](https://www.bigmarker.com/gremlin/Preparing-for-Traffic-Spikes-with-Chaos-Engineering)
+* [Automating Chaos Engineering GameDays with Terraform](https://www.youtube.com/watch?v=NOOgKNbW0gk)
+* [Postmortem Culture: Learning from failure](https://www.youtube.com/watch?v=JtLrlDNdJzg&feature=youtu.be)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
