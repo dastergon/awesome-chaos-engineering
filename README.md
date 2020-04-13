@@ -173,6 +173,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Simoorg](https://github.com/linkedin/simoorg) - Linkedin’s very own failure inducer framework.
 * [react-chaos](https://github.com/jchiatt/react-chaos) - A chaos engineering tool for your React apps
 * [Chaos Engine](https://github.com/ThalesGroup/chaos-engine) - tool designed to intermittently destroy or degrade application resources running in cloud based infrastructure. [Documentation](https://thalesgroup.github.io/chaos-engine/)
+* [kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM.
 
 ## Cloud Services
 * [Testing Amazon Aurora Using Fault Injection Queries](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/AuroraMySQL.Managing.html#AuroraMySQL.Managing.FaultInjectionQueries)
