@@ -177,6 +177,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Engine](https://github.com/ThalesGroup/chaos-engine) - tool designed to intermittently destroy or degrade application resources running in cloud based infrastructure. [Documentation](https://thalesgroup.github.io/chaos-engine/)
 * [kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM.
 * [kubethanos](https://github.com/berkay-dincer/kubethanos) - Kills half of your randomly selected Kubernetes pods.
+* [go-fault](https://github.com/github/go-fault) - Fault injection middleware in Go
 
 ## Cloud Services
 * [Testing Amazon Aurora Using Fault Injection Queries](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/AuroraMySQL.Managing.html#AuroraMySQL.Managing.FaultInjectionQueries)
