@@ -133,12 +133,10 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 
 ## Notable Tools
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
-* [The Simian Army](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your cloud operating in top form.
 * [orchestrator](https://github.com/github/orchestrator) - MySQL replication topology management and HA.
 * [kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters.
 * [Gremlin Inc.](https://www.gremlin.com/) - Failure as a Service.
 * [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit) - A chaos engineering toolkit to help you build confidence in your software system.
-* [ChaoSlingr](https://github.com/Optum/ChaoSlingr) - Introducing Security Chaos Engineering. ChaoSlingr focuses primarily on the experimentation on AWS Infrastructure to proactively instrument system security failure through experimentation.
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - Adds chaos to your Kubernetes clusters, so that you can detect problems in your systems as early as possible. It kills targeted pods and takes VMs up and down.
 * [drax](https://github.com/dcos-labs/drax) -  DC/OS Resilience Automated Xenodiagnosis tool. It helps to test DC/OS deployments by applying a Chaos Monkey-inspired, proactive and invasive testing approach.
 * [Wiremock](http://wiremock.org/) - API mocking (Service Virtualization) which enables modeling real world faults and delays
@@ -178,6 +176,10 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM.
 * [kubethanos](https://github.com/berkay-dincer/kubethanos) - Kills half of your randomly selected Kubernetes pods.
 * [go-fault](https://github.com/github/go-fault) - Fault injection middleware in Go
+
+## Retired tools
+* [The Simian Army](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your cloud operating in top form.
+* [ChaoSlingr](https://github.com/Optum/ChaoSlingr) - Introducing Security Chaos Engineering. ChaoSlingr focuses primarily on the experimentation on AWS Infrastructure to proactively instrument system security failure through experimentation.
 
 ## Cloud Services
 * [Testing Amazon Aurora Using Fault Injection Queries](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/AuroraMySQL.Managing.html#AuroraMySQL.Managing.FaultInjectionQueries)
