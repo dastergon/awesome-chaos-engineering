@@ -132,6 +132,8 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [PenTester Academic](https://www.pentesteracademy.com/onlinelabs)
 
 ## Notable Tools
+High level overview of notable tools (WIP)
+![](overview of chaos engineering tools.PNG)
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
 * [orchestrator](https://github.com/github/orchestrator) - MySQL replication topology management and HA.
 * [kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters.
