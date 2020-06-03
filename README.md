@@ -201,6 +201,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Engineering Security](https://jaxenter.com/chaos-engineering-security-163358.html)
 * [Security Chaos Engineering: A new paradigm for cybersecurity](https://opensource.com/article/18/1/new-paradigm-cybersecurity)
 * [Security Challenges around Chaos Engineering](https://www.conjur.org/blog/security-challenges-around-chaos-engineering/)
+* [CloudStrike: Security Chaos Engineering for Cloud Services](https://www.researchgate.net/publication/335922038_Security_Chaos_Engineering_for_Cloud_Services)
 
 ## Gamedays
 * [Target: What is a Gameday?](https://tech.target.com/2019/05/09/chaos-engineering-at-Target.html) - Chaos Gamedays experience by Target.
