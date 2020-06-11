@@ -176,6 +176,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM.
 * [kubethanos](https://github.com/berkay-dincer/kubethanos) - Kills half of your randomly selected Kubernetes pods.
 * [go-fault](https://github.com/github/go-fault) - Fault injection middleware in Go
+* [Proofdock's Chaos Engineering Platform](https://proofdock.io) - A chaos engineering platform that seamlessly integrates in Azure DevOps and has a focus on the Azure cloud platform.
 
 ## Retired tools
 * [The Simian Army](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your cloud operating in top form.
@@ -231,6 +232,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - Weekly systems engineering and operations news and insights from industry insiders.
 * [LaunchDarkly Blog](http://blog.launchdarkly.com/) - Continuous delivery and feature flags blog.
 * [Verica](https://www.verica.io/) - Chaos engineering, security chaos engineering and continuous verification.
+* [Proofdock](https://medium.com/proofdock) - Reliability, resilience and chaos engineering with a focus on MS Azure
 
 ## Podcasts
 * [Break Things On Purpose](https://podcasts.apple.com/us/podcast/break-things-on-purpose/id1460542551) - Monthly podcast about Chaos Engineering presented by Gremlin Inc. Also available on Spotify, Google Play, and Stitcher.
