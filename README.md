@@ -275,6 +275,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Engineering Retweet Bot](https://twitter.com/serverlesschaos)
 * [Gunnar Grosch](https://twitter.com/gunnargrosch)
 * [Adrian Hornsby](https://twitter.com/adhorn)
+* [Uma Mukkara](https://twitter.com/Uma_Mukkara)
 
 ## Contributing
 
