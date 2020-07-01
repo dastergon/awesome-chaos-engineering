@@ -231,6 +231,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - Weekly systems engineering and operations news and insights from industry insiders.
 * [LaunchDarkly Blog](http://blog.launchdarkly.com/) - Continuous delivery and feature flags blog.
 * [Verica](https://www.verica.io/) - Chaos engineering, security chaos engineering and continuous verification.
+* [LitmusChaos Blog](https://dev.to/t/litmuschaos/latest) - Blogs on cloud-native Chaos Engineering by LitmusChaos.
 
 ## Podcasts
 * [Break Things On Purpose](https://podcasts.apple.com/us/podcast/break-things-on-purpose/id1460542551) - Monthly podcast about Chaos Engineering presented by Gremlin Inc. Also available on Spotify, Google Play, and Stitcher.
