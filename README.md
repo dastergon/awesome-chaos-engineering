@@ -95,6 +95,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Postmortem Culture: Learning from failure](https://www.youtube.com/watch?v=JtLrlDNdJzg&feature=youtu.be)
 * [Problem Detection by John Allspaw](https://www.youtube.com/watch?v=NxctiGRI2y8)
 * [New Paradigms for the Next Era of Security](https://www.rsaconference.com/industry-topics/webcast/35-new-paradigms-for-the-next-era-of-security)
+* [Cloud-Native Chaos Engineering](https://dev.to/umamukkara/chaos-engineering-for-cloud-native-systems-2fjn)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
@@ -233,7 +234,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [LaunchDarkly Blog](http://blog.launchdarkly.com/) - Continuous delivery and feature flags blog.
 * [Verica](https://www.verica.io/) - Chaos engineering, security chaos engineering and continuous verification.
 * [Proofdock](https://medium.com/proofdock) - Reliability, resilience and chaos engineering with a focus on MS Azure
-
+* [LitmusChaos Blog](https://dev.to/t/litmuschaos/latest) - Blogs on Chaos Engineering from LitmusChaos
 ## Podcasts
 * [Break Things On Purpose](https://podcasts.apple.com/us/podcast/break-things-on-purpose/id1460542551) - Monthly podcast about Chaos Engineering presented by Gremlin Inc. Also available on Spotify, Google Play, and Stitcher.
 
@@ -247,6 +248,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Stockholm Chaos Engineering Meetup](https://www.meetup.com/Stockholm-Chaos-Engineering-Community/) Stockholm Meetup group for Chaos Engineers.
 * [Chaos Engineering Community](https://www.meetup.com/pro/chaos/) - A collection of meetups across the globe about Chaos Engineerings.
 * [Conf42.com: Chaos Engineering](https://conf42.com) - Chaos Engineering for practitioners and adopters - London UK, 23 Jan 2020.
+* [Kubernetes Chaos Engineering Meetup Group India](https://www.meetup.com/Kubernetes-Chaos-Engineering-Meetup-Group-India/)- India Meetup group for Chaos Engineers.
 
 ## Forums
 * [Chaos Community Google Group](https://groups.google.com/forum/#!forum/chaos-community)
@@ -256,7 +258,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * CNCF Chaos Engineering Working Group Slack: #chaosengineering (slack.cncf.io)
 * [CNCF Chaos Engineering Working Group Github](https://github.com/chaoseng/wg-chaoseng)
 * [Chaos Toolkit Slack Community](https://join.chaostoolkit.org)
-
+* [Litmus Chaos Engineering Slack Community](https://slack.litmuschaos.io/)
 ## Twitter
 * [Aaron Blohowiak](https://twitter.com/aaronblohowiak)
 * [Casey Rosenthal](https://twitter.com/caseyrosenthal)
@@ -277,6 +279,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Engineering Retweet Bot](https://twitter.com/serverlesschaos)
 * [Gunnar Grosch](https://twitter.com/gunnargrosch)
 * [Adrian Hornsby](https://twitter.com/adhorn)
+* [Uma Mukkara](https://twitter.com/Uma_Mukkara)
 
 ## Contributing
 
