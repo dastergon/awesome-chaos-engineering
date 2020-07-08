@@ -235,6 +235,8 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Verica](https://www.verica.io/) - Chaos engineering, security chaos engineering and continuous verification.
 * [Proofdock](https://medium.com/proofdock) - Reliability, resilience and chaos engineering with a focus on MS Azure
 * [LitmusChaos Blog](https://dev.to/t/litmuschaos/latest) - Blogs on Chaos Engineering from LitmusChaos
+* [ChaosEngineering.news](https://chaosengineering.news/) - Chaos Engineering newsletter. All things chaos engineering, directly to your inbox!
+
 ## Podcasts
 * [Break Things On Purpose](https://podcasts.apple.com/us/podcast/break-things-on-purpose/id1460542551) - Monthly podcast about Chaos Engineering presented by Gremlin Inc. Also available on Spotify, Google Play, and Stitcher.
 
