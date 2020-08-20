@@ -178,6 +178,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [kubethanos](https://github.com/berkay-dincer/kubethanos) - Kills half of your randomly selected Kubernetes pods.
 * [go-fault](https://github.com/github/go-fault) - Fault injection middleware in Go
 * [Proofdock's Chaos Engineering Platform](https://proofdock.io) - A chaos engineering platform that seamlessly integrates in Azure DevOps and has a focus on the Azure cloud platform.
+* [Pystol](https://www.pystol.org/docs) - Pystol is a fault injection platform allowing users to execute fault injection Actions in cloud-native environments in a controlled and prescribed way.
 
 ## Retired tools
 * [The Simian Army](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your cloud operating in top form.
