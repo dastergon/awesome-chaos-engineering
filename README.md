@@ -178,6 +178,8 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [kubethanos](https://github.com/berkay-dincer/kubethanos) - Kills half of your randomly selected Kubernetes pods.
 * [go-fault](https://github.com/github/go-fault) - Fault injection middleware in Go
 * [Proofdock's Chaos Engineering Platform](https://proofdock.io) - A chaos engineering platform that seamlessly integrates in Azure DevOps and has a focus on the Azure cloud platform.
+* [AWSSSMChaosRunner](https://github.com/amzn/awsssmchaosrunner) - Amazon's light-weight open-source library for chaos engineering on AWS. It can be used for [EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html), [ECS (with EC2 launch type)](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-ecs-ec2.html) and [Fargate](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-fargate.html).
+
 
 ## Retired tools
 * [The Simian Army](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your cloud operating in top form.
