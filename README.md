@@ -139,6 +139,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters.
 * [Gremlin Inc.](https://www.gremlin.com/) - Failure as a Service.
 * [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit) - A chaos engineering toolkit to help you build confidence in your software system.
+* [steadybit](https://www.steadybit.com/) - A Chaos Engineering platform (SaaS or On-Prem) with auto discovery features, different attack types, user management and many more.
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - Adds chaos to your Kubernetes clusters, so that you can detect problems in your systems as early as possible. It kills targeted pods and takes VMs up and down.
 * [drax](https://github.com/dcos-labs/drax) -  DC/OS Resilience Automated Xenodiagnosis tool. It helps to test DC/OS deployments by applying a Chaos Monkey-inspired, proactive and invasive testing approach.
 * [Wiremock](http://wiremock.org/) - API mocking (Service Virtualization) which enables modeling real world faults and delays
@@ -164,7 +165,6 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Perses](https://github.com/nicolasmanic/perses) - A project to cause (controlled) destruction to a JVM application.
 * [ChaosKube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster. 
 * [Chaos-Mesh](https://github.com/pingcap/chaos-mesh) - Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
-* [chaosmesh](https://www.chaosmesh.com/) - A Chaos Engineering platform (SaaS or On-Prem) with auto discovery features, different attack types, user management and many more. (don't mix up with the different spelled "Chaos-Mesh" above)
 * [failure-lambda](https://github.com/gunnargrosch/failure-lambda) - A small Node module for injecting failure into AWS Lambda using latency, exception, statuscode or diskspace.
 * [aws-chaos-scripts](https://github.com/adhorn/aws-chaos-scripts) - Collection of python scripts to run failure injection on AWS infrastructure
 * [chaos-ssm-documents](https://github.com/adhorn/chaos-ssm-documents) - Collection of AWS SSM Documents to perform Chaos Engineering experiments
