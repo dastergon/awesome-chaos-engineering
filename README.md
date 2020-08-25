@@ -96,6 +96,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Problem Detection by John Allspaw](https://www.youtube.com/watch?v=NxctiGRI2y8)
 * [New Paradigms for the Next Era of Security](https://www.rsaconference.com/industry-topics/webcast/35-new-paradigms-for-the-next-era-of-security)
 * [Cloud-Native Chaos Engineering](https://dev.to/umamukkara/chaos-engineering-for-cloud-native-systems-2fjn)
+* [Building resilient services at Prime Video with chaos engineering](https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
