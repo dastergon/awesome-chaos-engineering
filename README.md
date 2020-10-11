@@ -174,6 +174,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Lemur](https://github.com/strepsirrhini-army/chaos-lemur) - A self-hostable application to randomly destroy virtual machines in a BOSH-managed environment
 * [Simoorg](https://github.com/linkedin/simoorg) - Linkedin’s very own failure inducer framework.
 * [react-chaos](https://github.com/jchiatt/react-chaos) - A chaos engineering tool for your React apps
+* [vue-chaos](https://github.com/aviadhahami/vue-chaos) - A chaos engineering tool for your Vue apps
 * [Chaos Engine](https://github.com/ThalesGroup/chaos-engine) - tool designed to intermittently destroy or degrade application resources running in cloud based infrastructure. [Documentation](https://thalesgroup.github.io/chaos-engine/)
 * [kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM.
 * [kubethanos](https://github.com/berkay-dincer/kubethanos) - Kills half of your randomly selected Kubernetes pods.
