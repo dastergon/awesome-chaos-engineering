@@ -271,7 +271,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Casey Rosenthal](https://twitter.com/caseyrosenthal)
 * [Mathias Lafeldt](https://twitter.com/mlafeldt)
 * [Nora Jones](https://twitter.com/nora_js)
-* [Tammy Bütow](https://twitter.com/tammybutow)
+* [Tammy Bryant](https://twitter.com/tammyxbryant)
 * [Bruce Wong](https://twitter.com/bruce_m_wong)
 * [Kolton Andrus](https://twitter.com/koltonandrus)
 * [Lorin Hochstein](https://twitter.com/lhochstein)
