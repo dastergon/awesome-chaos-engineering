@@ -287,6 +287,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Gunnar Grosch](https://twitter.com/gunnargrosch)
 * [Adrian Hornsby](https://twitter.com/adhorn)
 * [Uma Mukkara](https://twitter.com/Uma_Mukkara)
+* [Simon Aronsson](https://twitter.com/0x12b)
 
 ## Contributing
 
