@@ -107,6 +107,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Learning Chaos Engineering](http://shop.oreilly.com/product/0636920251897.do)
 * [Chaos Engineering: System Resilience in Practice](https://www.oreilly.com/library/view/chaos-engineering/9781492043850/)
 * [Chaos Engineering: Crash test your applications](https://www.manning.com/books/chaos-engineering)
+* [Security Chaos Engineering: Gaining Confidence in Resilience and Safety at Speed and Scale](https://www.oreilly.com/library/view/security-chaos-engineering/9781492080350/)
 
 ## Education
 * A Chaos Engineering Bootcamp for O'Reilly Velocity 2017 - [Slides](https://speakerdeck.com/tammybutow/chaos-engineering-bootcamp) & [Source code](https://github.com/tammybutow/chaos_engineering_bootcamp)
