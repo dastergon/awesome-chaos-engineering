@@ -247,6 +247,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Break Things On Purpose](https://podcasts.apple.com/us/podcast/break-things-on-purpose/id1460542551) - Monthly podcast about Chaos Engineering presented by Gremlin Inc. Also available on Spotify, Google Play, and Stitcher.
 
 ## Conferences & Meetups
+* [Chaos Carnival](https://chaoscarnival.io/) - A global two-day virtual conference for Cloud Native Chaos Engineering. 
 * [Chaos Conf](https://chaosconf.splashthat.com/) - A day of Chaos Engineering demos, expert advice, and connect with your peers putting chaos into practice at their companies.
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The official SRE conference.
 * [LISA Conferences](https://www.usenix.org/conferences/byname/5) - Prominent conference about SysAdmin/DevOps/SRE.
