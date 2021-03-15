@@ -165,7 +165,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Litmus](https://github.com/litmuschaos/litmus) - Framework for Kubernetes environments that enables users to run test suites, capture logs, generate reports and perform chaos tests.
 * [Perses](https://github.com/nicolasmanic/perses) - A project to cause (controlled) destruction to a JVM application.
 * [ChaosKube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster. 
-* [Chaos-Mesh](https://github.com/pingcap/chaos-mesh) - Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
+* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) - Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
 * [failure-lambda](https://github.com/gunnargrosch/failure-lambda) - A small Node module for injecting failure into AWS Lambda using latency, exception, statuscode or diskspace.
 * [aws-chaos-scripts](https://github.com/adhorn/aws-chaos-scripts) - Collection of python scripts to run failure injection on AWS infrastructure
 * [chaos-ssm-documents](https://github.com/adhorn/chaos-ssm-documents) - Collection of AWS SSM Documents to perform Chaos Engineering experiments
@@ -242,6 +242,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Proofdock](https://medium.com/proofdock) - Reliability, resilience and chaos engineering with a focus on MS Azure
 * [LitmusChaos Blog](https://dev.to/t/litmuschaos/latest) - Blogs on Chaos Engineering from LitmusChaos
 * [ChaosEngineering.news](https://chaosengineering.news/) - Chaos Engineering newsletter. All things chaos engineering, directly to your inbox!
+* [Chaos Mesh Blog](https://chaos-mesh.org/blog) - Blogs on Chaos Engineering from Chaos Mesh.
 
 ## Podcasts
 * [Break Things On Purpose](https://podcasts.apple.com/us/podcast/break-things-on-purpose/id1460542551) - Monthly podcast about Chaos Engineering presented by Gremlin Inc. Also available on Spotify, Google Play, and Stitcher.
