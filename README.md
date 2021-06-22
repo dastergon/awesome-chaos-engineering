@@ -97,6 +97,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [New Paradigms for the Next Era of Security](https://www.rsaconference.com/industry-topics/webcast/35-new-paradigms-for-the-next-era-of-security)
 * [Cloud-Native Chaos Engineering](https://dev.to/umamukkara/chaos-engineering-for-cloud-native-systems-2fjn)
 * [Building resilient services at Prime Video with chaos engineering](https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/)
+* [Making Chaos Part of Kubernetes/OpenShift Performance and Scalability Tests](https://www.openshift.com/blog/making-chaos-part-of-kubernetes/openshift-performance-and-scalability-tests)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
@@ -183,7 +184,8 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Proofdock's Chaos Engineering Platform](https://proofdock.io) - A chaos engineering platform that seamlessly integrates in Azure DevOps and has a focus on the Azure cloud platform.
 * [Pystol](https://www.pystol.org/docs) - Pystol is a fault injection platform allowing users to execute fault injection Actions in cloud-native environments in a controlled and prescribed way.
 * [AWSSSMChaosRunner](https://github.com/amzn/awsssmchaosrunner) - Amazon's light-weight open-source library for chaos engineering on AWS. It can be used for [EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html), [ECS (with EC2 launch type)](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-ecs-ec2.html) and [Fargate](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-fargate.html).
-* [kraken](https://github.com/openshift-scale/kraken) - Chaos and resiliency testing tool for Kubernetes and OpenShift.
+* [Kraken](https://github.com/cloud-bulldozer/kraken) - Chaos and resiliency testing tool for Kubernetes and OpenShift.
+* [kube-burner](https://github.com/cloud-bulldozer/kube-burner) - A tool aimed at stressing Kubernetes clusters by creating or deleting a high quantity of objects.
 
 ## Retired tools
 * [The Simian Army](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your cloud operating in top form.
@@ -269,6 +271,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [CNCF Chaos Engineering Working Group Github](https://github.com/chaoseng/wg-chaoseng)
 * [Chaos Toolkit Slack Community](https://join.chaostoolkit.org)
 * [Litmus Chaos Engineering Slack Community](https://slack.litmuschaos.io/)
+
 ## Twitter
 * [Aaron Blohowiak](https://twitter.com/aaronblohowiak)
 * [Casey Rosenthal](https://twitter.com/caseyrosenthal)
