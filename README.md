@@ -186,6 +186,8 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [AWSSSMChaosRunner](https://github.com/amzn/awsssmchaosrunner) - Amazon's light-weight open-source library for chaos engineering on AWS. It can be used for [EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html), [ECS (with EC2 launch type)](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-ecs-ec2.html) and [Fargate](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-fargate.html).
 * [Kraken](https://github.com/cloud-bulldozer/kraken) - Chaos and resiliency testing tool for Kubernetes and OpenShift.
 * [kube-burner](https://github.com/cloud-bulldozer/kube-burner) - A tool aimed at stressing Kubernetes clusters by creating or deleting a high quantity of objects.
+* [Chaos Experimentation Framework](https://github.com/lyft/clutch) - An extensible platform for infrastructure management including Chaos Engineering 
+
 
 ## Retired tools
 * [The Simian Army](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your cloud operating in top form.
@@ -245,6 +247,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [LitmusChaos Blog](https://dev.to/t/litmuschaos/latest) - Blogs on Chaos Engineering from LitmusChaos
 * [ChaosEngineering.news](https://chaosengineering.news/) - Chaos Engineering newsletter. All things chaos engineering, directly to your inbox!
 * [Chaos Mesh Blog](https://chaos-mesh.org/blog) - Blogs on Chaos Engineering from Chaos Mesh.
+* [Chaos Experimentation Framework](https://eng.lyft.com/chaos-experimentation-an-open-source-framework-built-on-top-of-envoy-proxy-df87519ed681) Chaos Experimentation, an open-source framework built on top of Envoy Proxy
 
 ## Podcasts
 * [Break Things On Purpose](https://podcasts.apple.com/us/podcast/break-things-on-purpose/id1460542551) - Monthly podcast about Chaos Engineering presented by Gremlin Inc. Also available on Spotify, Google Play, and Stitcher.
@@ -294,6 +297,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Adrian Hornsby](https://twitter.com/adhorn)
 * [Uma Mukkara](https://twitter.com/Uma_Mukkara)
 * [Simon Aronsson](https://twitter.com/0x12b)
+* [Kathan Shah](https://twitter.com/kathan24)
 
 ## Contributing
 
