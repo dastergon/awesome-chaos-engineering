@@ -98,6 +98,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Cloud-Native Chaos Engineering](https://dev.to/umamukkara/chaos-engineering-for-cloud-native-systems-2fjn)
 * [Building resilient services at Prime Video with chaos engineering](https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/)
 * [Making Chaos Part of Kubernetes/OpenShift Performance and Scalability Tests](https://www.openshift.com/blog/making-chaos-part-of-kubernetes/openshift-performance-and-scalability-tests)
+* [Lucky Lotto, chaos engineering but for teams](https://danlebrero.com/2021/06/30/cto-dairy-lucky-lotto-chaos-engineering-for-teams/)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
