@@ -275,30 +275,6 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Toolkit Slack Community](https://join.chaostoolkit.org)
 * [Litmus Chaos Engineering Slack Community](https://slack.litmuschaos.io/)
 
-## Twitter
-* [Aaron Blohowiak](https://twitter.com/aaronblohowiak)
-* [Casey Rosenthal](https://twitter.com/caseyrosenthal)
-* [Mathias Lafeldt](https://twitter.com/mlafeldt)
-* [Nora Jones](https://twitter.com/nora_js)
-* [Tammy Bryant](https://twitter.com/tammyxbryant)
-* [Bruce Wong](https://twitter.com/bruce_m_wong)
-* [Kolton Andrus](https://twitter.com/koltonandrus)
-* [Lorin Hochstein](https://twitter.com/lhochstein)
-* [Peter Alvaro](https://twitter.com/palvaro)
-* [John Allspaw](https://twitter.com/allspaw)
-* [Charles Torre](https://twitter.com/carmine007)
-* [Russ Miles](https://twitter.com/russmiles)
-* [Aaron Rinehart](https://twitter.com/aaronrinehart)
-* [Mikolaj Pawlikowski](https://twitter.com/mikopawlikowski)
-* [Rich Burroughs](https://twitter.com/richburroughs)
-* [Ana Medina](https://twitter.com/ana_m_medina)
-* [Chaos Engineering Retweet Bot](https://twitter.com/serverlesschaos)
-* [Gunnar Grosch](https://twitter.com/gunnargrosch)
-* [Adrian Hornsby](https://twitter.com/adhorn)
-* [Uma Mukkara](https://twitter.com/Uma_Mukkara)
-* [Simon Aronsson](https://twitter.com/0x12b)
-* [Kathan Shah](https://twitter.com/kathan24)
-
 ## Contributing
 
 Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Contributions are always welcome!
