@@ -188,7 +188,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Kraken](https://github.com/cloud-bulldozer/kraken) - Chaos and resiliency testing tool for Kubernetes and OpenShift.
 * [kube-burner](https://github.com/cloud-bulldozer/kube-burner) - A tool aimed at stressing Kubernetes clusters by creating or deleting a high quantity of objects.
 * [Chaos Experimentation Framework](https://github.com/lyft/clutch) - An extensible platform for infrastructure management including Chaos Engineering 
-
+* [NetHavoc](https://www.cavisson.com/nethavoc-resilience-testing-solution/) - A Chaos Engineering Tool for Linux, K8s, Windows, PCF, Cloud, and Containers for injecting Resource, Infrastructure, Network, and Application failures.
 
 ## Retired tools
 * [The Simian Army](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your cloud operating in top form.
