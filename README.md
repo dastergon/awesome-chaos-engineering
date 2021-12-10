@@ -252,7 +252,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [ChaosEngineering.news](https://chaosengineering.news/) - Chaos Engineering newsletter. All things chaos engineering, directly to your inbox!
 * [Chaos Mesh Blog](https://chaos-mesh.org/blog) - Blogs on Chaos Engineering from Chaos Mesh.
 * [Chaos Experimentation Framework](https://eng.lyft.com/chaos-experimentation-an-open-source-framework-built-on-top-of-envoy-proxy-df87519ed681) Chaos Experimentation, an open-source framework built on top of Envoy Proxy
-* [Squadcast](https://squadcast.com/blog) Blog on Site Reliability engineering.
+* [Squadcast](https://squadcast.com/blog)- Blog on Site Reliability engineering.
 * [steadybit Blog](https://www.steadybit.com/blog) - Blogs on Chaos Engineering, Resilience, SRE and OPS from steadybit.
 
 
