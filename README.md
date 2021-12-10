@@ -188,6 +188,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Kraken](https://github.com/cloud-bulldozer/kraken) - Chaos and resiliency testing tool for Kubernetes and OpenShift.
 * [kube-burner](https://github.com/cloud-bulldozer/kube-burner) - A tool aimed at stressing Kubernetes clusters by creating or deleting a high quantity of objects.
 * [Chaos Experimentation Framework](https://github.com/lyft/clutch) - An extensible platform for infrastructure management including Chaos Engineering 
+* [gorm-sqlchaos](https://github.com/u2386/gorm-sqlchaos) - A runtime SQL manipulator for your Golang applications based on gorm.
 
 
 ## Retired tools
