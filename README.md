@@ -218,6 +218,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [CloudStrike: Security Chaos Engineering for Cloud Services](https://www.researchgate.net/publication/335922038_Security_Chaos_Engineering_for_Cloud_Services)
 * [Observability and Chaos Engineering on System Calls for Containerized Applications in Docker](https://arxiv.org/abs/1907.13039)
 * [Maximizing Error Injection Realism for Chaos Engineering with System Calls](https://arxiv.org/abs/2006.04444)
+* [Chaos Engineering of Ethereum Blockchain Clients](https://arxiv.org/abs/2111.00221)
 
 ## Gamedays
 * [Target: What is a Gameday?](https://tech.target.com/2019/05/09/chaos-engineering-at-Target.html) - Chaos Gamedays experience by Target.
