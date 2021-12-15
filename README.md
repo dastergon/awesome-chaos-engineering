@@ -189,6 +189,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [kube-burner](https://github.com/cloud-bulldozer/kube-burner) - A tool aimed at stressing Kubernetes clusters by creating or deleting a high quantity of objects.
 * [Chaos Experimentation Framework](https://github.com/lyft/clutch) - An extensible platform for infrastructure management including Chaos Engineering 
 * [gorm-sqlchaos](https://github.com/u2386/gorm-sqlchaos) - A runtime SQL manipulator for your Golang applications based on gorm.
+* [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - A set of tools to apply Chaos Engineering to frontend
 
 
 ## Retired tools
@@ -253,9 +254,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [ChaosEngineering.news](https://chaosengineering.news/) - Chaos Engineering newsletter. All things chaos engineering, directly to your inbox!
 * [Chaos Mesh Blog](https://chaos-mesh.org/blog) - Blogs on Chaos Engineering from Chaos Mesh.
 * [Chaos Experimentation Framework](https://eng.lyft.com/chaos-experimentation-an-open-source-framework-built-on-top-of-envoy-proxy-df87519ed681) Chaos Experimentation, an open-source framework built on top of Envoy Proxy
-* [Squadcast](https://squadcast.com/blog)- Blog on Site Reliability engineering.
 * [steadybit Blog](https://www.steadybit.com/blog) - Blogs on Chaos Engineering, Resilience, SRE and OPS from steadybit.
-
 
 ## Podcasts
 * [Break Things On Purpose](https://podcasts.apple.com/us/podcast/break-things-on-purpose/id1460542551) - Monthly podcast about Chaos Engineering presented by Gremlin Inc. Also available on Spotify, Google Play, and Stitcher.
