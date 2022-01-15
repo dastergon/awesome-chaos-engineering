@@ -135,6 +135,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Resilience Engineering: Short Course](http://csel.org.ohio-state.edu/ResilienceEngineering.html)
 * [The Chaos Engineering Collection](https://medium.com/@adhorn/the-chaos-engineering-collection-5e188d6a90e2)
 * [PenTester Academic](https://www.pentesteracademy.com/onlinelabs)
+* [Consul and Chaos Engineering](https://learn.hashicorp.com/tutorials/consul/introduction-chaos-engineering?in=consul/resiliency)
 
 ## Notable Tools
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
