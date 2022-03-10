@@ -199,7 +199,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 
 ## Cloud Services
 * [Testing Amazon Aurora Using Fault Injection Queries](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/AuroraMySQL.Managing.html#AuroraMySQL.Managing.FaultInjectionQueries)
-* [Azure Fault Analysis Service](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-testability-overview), see also [Include controlled Chaos in Service Fabric clusters](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-controlled-chaos)
+* [Azure Chaos Studio](https://aka.ms/azurechaosstudio) - A managed fault injection service for Azure applications. See also [Azure Fault Analysis Service](https://docs.microsoft.com/azure/service-fabric/service-fabric-testability-overview) for Azure Service Fabric applications.
 * [Security Chaos Engineering for Cloud Services](https://medium.com/@run2obtain/from-resilience-to-dependability-security-chaos-engineering-for-cloud-services-9c6d6d152ed2)
 
 ## Papers
