@@ -100,6 +100,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Making Chaos Part of Kubernetes/OpenShift Performance and Scalability Tests](https://www.openshift.com/blog/making-chaos-part-of-kubernetes/openshift-performance-and-scalability-tests)
 * [Lucky Lotto, chaos engineering but for teams](https://danlebrero.com/2021/06/30/cto-dairy-lucky-lotto-chaos-engineering-for-teams/)
 * [Using Fault Injection Testing to Improve DoorDash Reliability](https://doordash.engineering/2022/04/25/using-fault-injection-testing-to-improve-doordash-reliability/)
+* [Chaos Engineering At Ant Group](https://medium.com/@monkeysuzie/chaos-engineering-at-ant-group-30c15cb6ab69)
 
 ## Books
 * [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
