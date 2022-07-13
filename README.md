@@ -195,6 +195,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [NetHavoc](https://www.cavisson.com/nethavoc-resilience-testing-solution/) - A Chaos Engineering Tool for Linux, K8s, Windows, PCF, Cloud, and Containers for injecting Resource, Infrastructure, Network, and Application failures.
 * [gorm-sqlchaos](https://github.com/u2386/gorm-sqlchaos) - A runtime SQL manipulator for your Golang applications based on gorm.
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - A set of tools to apply Chaos Engineering to frontend
+* [Mitigant](https://mitigant.io/) - The Continuos Security Verification Platform, enables confidence in cloud security posture by leveraging security chaos engineering.
 
 ## Retired tools
 * [The Simian Army](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your cloud operating in top form.
