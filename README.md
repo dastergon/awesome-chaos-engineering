@@ -196,6 +196,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [gorm-sqlchaos](https://github.com/u2386/gorm-sqlchaos) - A runtime SQL manipulator for your Golang applications based on gorm.
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - A set of tools to apply Chaos Engineering to frontend
 * [Mitigant](https://mitigant.io/) - The Continuos Security Verification Platform, enables confidence in cloud security posture by leveraging security chaos engineering.
+* [Harness Chaos Engineering](https://www.harness.io/products/chaos-engineering) - A cloud-native chaos engineering solution (SaaS, on-premises, or air-gapped) that is integrated with Harness, the modern software delivery platform. Test your service reliability efficiently utilizing the Enterprise ChaosHub that includes 85+ pre-built experiments. Automate service reliability using Harness Continous Delivery or GitOps. Leverage the robust API to create custom integrations with any monitoring, observability, or software delivery tool.
 
 ## Retired tools
 * [The Simian Army](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your cloud operating in top form.
