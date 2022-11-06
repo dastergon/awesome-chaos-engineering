@@ -225,6 +225,11 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Observability and Chaos Engineering on System Calls for Containerized Applications in Docker](https://arxiv.org/abs/1907.13039)
 * [Maximizing Error Injection Realism for Chaos Engineering with System Calls](https://arxiv.org/abs/2006.04444)
 * [Chaos Engineering of Ethereum Blockchain Clients](https://arxiv.org/abs/2111.00221)
+* [IBIR: Bug Report driven Fault Injection](https://github.com/serval-uni-lu/IBIR)
+* [ProFIPy: Programmable Software Fault Injection as-a-Service](https://dl.acm.org/doi/10.1145/2841425)
+* [Fitness-guided Resilience Testing of Microservice-based Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9283918)
+* [Co-evolving Tracing and Fault Injection with Box of Pain](https://www.usenix.org/system/files/hotcloud19-paper-bittman.pdf)
+* [Service-Level Fault Injection Testing](https://dl.acm.org/doi/pdf/10.1145/3472883.3487005)
 
 ## Gamedays
 * [Target: What is a Gameday?](https://tech.target.com/2019/05/09/chaos-engineering-at-Target.html) - Chaos Gamedays experience by Target.
