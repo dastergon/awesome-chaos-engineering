@@ -164,7 +164,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [GomJabbar](https://github.com/outbrain/GomJabbar) - ChaosMonkey for your private cloud
 * [Turbulence](https://github.com/cppforlife/turbulence-release) - Tool focused on BOSH environments capable of stressing VMs, manipulating network traffic, and more. It is very simmilar to Gremlin.
 * [chaosblade](https://github.com/chaosblade-io/chaosblade) - An Easy to Use and Powerful Chaos Engineering Toolkit.
-* [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) - Gamfied Chaos engineering tool for Kubernetes Clusters
+* [Kubeinvaders](https://github.com/lucky-sideburn/kubeinvaders) - Gamified Chaos engineering tool & chaos programming console for Kubernetes.
 * [Cthulhu](https://github.com/xmatters/cthulhu-chaos-testing) - Chaos Engineering tool that helps evaluating the resiliency of microservice systems simulating various disaster scenarios against a target infrastructure in a data-driven manner.
 * [VMware Mangle](https://vmware.github.io/mangle/) - Orchestrating Chaos Engineering.
 * [Byteman](https://byteman.jboss.org/) - A Swiss Army Knife for Byte Code Manipulation.
