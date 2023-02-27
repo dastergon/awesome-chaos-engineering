@@ -267,7 +267,6 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 
 ## Conferences & Meetups
 * [Chaos Carnival](https://chaoscarnival.io/) - A global two-day virtual conference for Cloud Native Chaos Engineering. 
-* [Chaos Conf](https://chaosconf.splashthat.com/) - A day of Chaos Engineering demos, expert advice, and connect with your peers putting chaos into practice at their companies.
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The official SRE conference.
 * [LISA Conferences](https://www.usenix.org/conferences/byname/5) - Prominent conference about SysAdmin/DevOps/SRE.
 * [O'Reilly Velocity Conference](https://conferences.oreilly.com/velocity/) - Prominent conference about Systems Engineering/DevOps/SRE.
@@ -277,6 +276,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Engineering Community](https://www.meetup.com/pro/chaos/) - A collection of meetups across the globe about Chaos Engineerings.
 * [Conf42.com: Chaos Engineering](https://conf42.com) - Chaos Engineering for practitioners and adopters - London UK, 23 Jan 2020.
 * [Kubernetes Chaos Engineering Meetup Group India](https://www.meetup.com/Kubernetes-Chaos-Engineering-Meetup-Group-India/)- India Meetup group for Chaos Engineers.
+* [Chaos Conf](https://chaosconf.splashthat.com/) - A day of Chaos Engineering demos, expert advice, and connect with your peers putting chaos into practice at their companies (future conferences indefinitely postponed).
 
 ## Forums
 * [Chaos Community Google Group](https://groups.google.com/forum/#!forum/chaos-community)
