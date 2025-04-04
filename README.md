@@ -117,6 +117,8 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 ## Education
 * A Chaos Engineering Bootcamp for O'Reilly Velocity 2017 - [Slides](https://speakerdeck.com/tammybutow/chaos-engineering-bootcamp) & [Source code](https://github.com/tammybutow/chaos_engineering_bootcamp)
 * [Your First Chaos Experiment](https://www.gremlin.com/community/tutorials/your-first-chaos-experiment)
+* [How To Build Reliable Systems Under Unpredictable Conditions](https://www.youtube.com/watch?v=I4ONmOzUMD4)
+* [What is Chaos Engineering? The Ultimate Guide to Resiliency Testing](https://steadybit.com/blog/what-is-chaos-engineering-the-ultimate-guide-to-resiliency-testing/)
 * [Chaos Engineering 101](https://sharpend.io/chaos-engineering-101/)
 * [A Primer on Automating Chaos](https://www.gremlin.com/community/tutorials/a-primer-on-automating-chaos)
 * [Intro to Chaos Engineering](https://www.youtube.com/watch?v=qHykK5pFRW4)
@@ -139,6 +141,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [The Chaos Engineering Collection](https://medium.com/@adhorn/the-chaos-engineering-collection-5e188d6a90e2)
 * [PenTester Academic](https://www.pentesteracademy.com/onlinelabs)
 * [Consul and Chaos Engineering](https://learn.hashicorp.com/tutorials/consul/introduction-chaos-engineering?in=consul/resiliency)
+* [Steadybit Reliability Hub for experiment templates](https://hub.steadybit.com/)
 
 ## Notable Tools
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
@@ -146,7 +149,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters.
 * [Gremlin Inc.](https://www.gremlin.com/) - Failure as a Service.
 * [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit) - A chaos engineering toolkit to help you build confidence in your software system.
-* [steadybit](https://www.steadybit.com/) - A Chaos Engineering platform (SaaS or On-Prem) with auto discovery features, different attack types, user management and many more.
+* [Steadybit](https://www.steadybit.com/) - A Chaos Engineering tool for reliability testing (SaaS or On-Prem) with auto discovery features, different attack types, extensibility, experiment templating, user management and many more.
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - Adds chaos to your Kubernetes clusters, so that you can detect problems in your systems as early as possible. It kills targeted pods and takes VMs up and down.
 * [drax](https://github.com/dcos-labs/drax) -  DC/OS Resilience Automated Xenodiagnosis tool. It helps to test DC/OS deployments by applying a Chaos Monkey-inspired, proactive and invasive testing approach.
 * [Wiremock](http://wiremock.org/) - API mocking (Service Virtualization) which enables modeling real world faults and delays
@@ -250,6 +253,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [SRE Weekly](https://sreweekly.com/) - Weekly Site Reliability Newsletter.
 * [Site Reliability Engineering resources](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources.
 * [SysAdvent](https://sysadvent.blogspot.com) - One article for each day of December, ending on the 25th article.
+* [Steadybit Blog](https://www.steadybit.com/blog) - Blogs on Chaos Engineering, Resilience, SRE and OPS from steadybit.
 * [Gremlin Blog](https://blog.gremlininc.com) - Blogs on Chaos Engineering from Gremlin Inc.
 * [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - Weekly systems engineering and operations news and insights from industry insiders.
 * [LaunchDarkly Blog](http://blog.launchdarkly.com/) - Continuous delivery and feature flags blog.
@@ -260,10 +264,10 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Mesh Blog](https://chaos-mesh.org/blog) - Blogs on Chaos Engineering from Chaos Mesh.
 * [Chaos Experimentation Framework](https://eng.lyft.com/chaos-experimentation-an-open-source-framework-built-on-top-of-envoy-proxy-df87519ed681) Chaos Experimentation, an open-source framework built on top of Envoy Proxy
 * [Squadcast](https://squadcast.com/blog)- Blog on Site Reliability engineering.
-* [steadybit Blog](https://www.steadybit.com/blog) - Blogs on Chaos Engineering, Resilience, SRE and OPS from steadybit.
 
 ## Podcasts
 * [Break Things On Purpose](https://podcasts.apple.com/us/podcast/break-things-on-purpose/id1460542551) - Monthly podcast about Chaos Engineering presented by Gremlin Inc. Also available on Spotify, Google Play, and Stitcher.
+* [Experiments in Chaos](https://www.youtube.com/watch?v=tFpKFP_7hOI&list=PLJmtgVyXt114NEZv2YF7pucZ3vwIB8je5&index=7) - Benjamin Wilms sits down with Adrian Hornsby, a leading expert in the chaos engineering space to discuss common mistakes, best practices, and the future of the practice.
 
 ## Conferences & Meetups
 * [Chaos Carnival](https://chaoscarnival.io/) - A global two-day virtual conference for Cloud Native Chaos Engineering. 
