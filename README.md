@@ -70,7 +70,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Why the World Needs More Resilient Systems](https://www.infoq.com/news/2018/03/resilient-systems-chaos-engineer)
 * [Chaos Architecture](https://www.infoq.com/presentations/chaos-architecture-mindset)
 * [Gremlin’s Tammy Bütow on the Business Side of Chaos Engineering](https://thenewstack.io/gremlins-tammy-butow-on-the-business-side-of-chaos-engineering/)
-* [Kubernetes Chaos Engineering: Lessons Learned](https://learnk8s.io/blog/kubernetes-chaos-engineering-lessons-learned)
+* [Kubernetes Chaos Engineering: Lessons Learned](https://learnkube.com/blog/kubernetes-chaos-engineering-lessons-learned)
 * [Chaos Engineering: managing complexity by breaking things](https://hub.packtpub.com/chaos-engineering-managing-complexity-by-breaking-things/)
 * [Podcast:Database Chaos with Tammy Butow](https://softwareengineeringdaily.com/2018/04/10/database-chaos-with-tammy-butow/)
 * [LinkedOut: A Request-Level Failure Injection Framework](https://engineering.linkedin.com/blog/2018/05/linkedout--a-request-level-failure-injection-framework)
