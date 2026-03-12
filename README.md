@@ -197,6 +197,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - A set of tools to apply Chaos Engineering to frontend
 * [Mitigant](https://mitigant.io/) - The Continuos Security Verification Platform, enables confidence in cloud security posture by leveraging security chaos engineering.
 
+* [r30rg](https://github.com/copyleftdev/r30rg) - Chaos and adversarial testing framework for Arbitrum rollup stacks. Deterministic simulation with TigerBeetle-style fault injection, live Docker chaos, and bridge/timeboost invariant probing across L1/L2/L3.
 ## Retired tools
 * [The Simian Army](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your cloud operating in top form.
 * [ChaoSlingr](https://github.com/Optum/ChaoSlingr) - Introducing Security Chaos Engineering. ChaoSlingr focuses primarily on the experimentation on AWS Infrastructure to proactively instrument system security failure through experimentation.
