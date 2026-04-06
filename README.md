@@ -2,6 +2,7 @@
 
 A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) resources.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for automated resilience testing, infrastructure monitoring, incident response, and chaos experiment orchestration. MIT licensed.
 #### What is Chaos Engineering?
 > Chaos Engineering is the discipline of experimenting on a distributed system in order to build confidence in the system’s capability to withstand turbulent conditions in production. - [Principles Of Chaos Engineering](http://principlesofchaos.org/) website.
 
