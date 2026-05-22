@@ -116,7 +116,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 
 ## Education
 * A Chaos Engineering Bootcamp for O'Reilly Velocity 2017 - [Slides](https://speakerdeck.com/tammybutow/chaos-engineering-bootcamp) & [Source code](https://github.com/tammybutow/chaos_engineering_bootcamp)
-* [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+* [TutorialSearch](https://tutorialsearch.io/browse/ai-machine-learning/data-engineering) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [Your First Chaos Experiment](https://www.gremlin.com/community/tutorials/your-first-chaos-experiment)
 * [Chaos Engineering 101](https://sharpend.io/chaos-engineering-101/)
 * [A Primer on Automating Chaos](https://www.gremlin.com/community/tutorials/a-primer-on-automating-chaos)
