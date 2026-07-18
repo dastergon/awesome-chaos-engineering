@@ -1,9 +1,9 @@
 # Awesome Chaos Engineering [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) resources.
+A curated list of awesome [Chaos Engineering](https://principlesofchaos.org/) resources.
 
 #### What is Chaos Engineering?
-> Chaos Engineering is the discipline of experimenting on a distributed system in order to build confidence in the system’s capability to withstand turbulent conditions in production. - [Principles Of Chaos Engineering](http://principlesofchaos.org/) website.
+> Chaos Engineering is the discipline of experimenting on a distributed system in order to build confidence in the system’s capability to withstand turbulent conditions in production. - [Principles Of Chaos Engineering](https://principlesofchaos.org/) website.
 
 ## Contents
 - [Culture](#culture)
@@ -18,18 +18,18 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 - [Twitter](#twitter)
 
 ## Culture
-* [Principles Of Chaos Engineering](http://principlesofchaos.org/)
-* [Chaos Community](http://chaos.community/)
+* [Principles Of Chaos Engineering](https://principlesofchaos.org/)
+* [Chaos Community](https://chaos.community/)
 * [Chaos Engineering](https://www.infoq.com/articles/chaos-engineering)
 * [O'Reilly Velocity San Jose 2017: Precision Chaos](https://www.youtube.com/watch?v=C11LNUEaHuo)
 * [The Discipline of Chaos Engineering](https://www.gremlin.com/blog/the-discipline-of-chaos-engineering/)
 * [Chaos Monkey for Fun and Profit](https://sharpend.io/chaos-monkey-for-fun-and-profit/)
 * [Fault Injection in Production: Making the case for resilience testing](https://queue.acm.org/detail.cfm?id=2353017)
 * [Lord of Chaos - Becoming a Chaos Engineer](https://vimeo.com/groups/jz2016/videos/181925286)
-* [Chaos testing - Preventing failure by instigation](http://www.cakesolutions.net/teamblogs/chaos-testing-preventing-failure-by-instiga)
+* [Chaos testing - Preventing failure by instigation](https://www.cakesolutions.net/teamblogs/chaos-testing-preventing-failure-by-instiga)
 * [Orchestrated Chaos](https://docs.google.com/presentation/d/1zzHS3qoPGzwsSna5-uk3Xt7LW_3Fr6ag8JDkeyrKwL4/edit#slide=id.p)
 * Choose your own adventure: Chaos Engineering - [Video](https://www.infoq.com/presentations/adopt-chaos-engineering) & [Slides](https://www.slideshare.net/NoraJones1/choose-your-own-adventure-qcon-2017-1)
-* [AMA Chaos Engineering + DiRT](http://pages.catchpoint.com/AMA-Chaos-DiRT.html)
+* [AMA Chaos Engineering + DiRT](https://pages.catchpoint.com/AMA-Chaos-DiRT.html)
 * [SRECON17: Principles of Chaos Engineering](https://www.usenix.org/conference/srecon17americas/program/presentation/rosenthal)
 * [Chaos & Intuition Engineering at Netflix](https://www.youtube.com/watch?v=Q4nniyAarbs)
 * [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
@@ -39,7 +39,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [FIT: Failure Injection Testing](https://medium.com/netflix-techblog/fit-failure-injection-testing-35d8e2a9bb2)
 * [The Netflix Simian Army](https://medium.com/netflix-techblog/the-netflix-simian-army-16e57fbab116)
 * [Automated Failure Testing](https://medium.com/netflix-techblog/automated-failure-testing-86c1b8bc841f)
-* [The Verification of a Distributed System by Caitie McCaffrey](http://queue.acm.org/detail.cfm?ref=rss&id=2889274)
+* [The Verification of a Distributed System by Caitie McCaffrey](https://queue.acm.org/detail.cfm?ref=rss&id=2889274)
 * [The Journey to Chaos Engineering begins with a single step - Bruce Wong and James Burns (Twilio)](https://www.youtube.com/watch?v=rKAo2wANiHM)
 * [Chaos Engineering by Lorin Hochstein](https://www.youtube.com/watch?v=vq4QZ4_YDok)
 * [Aaron Rinehart - ChaoSlingr: Introducing Security based Chaos Testing](https://www.youtube.com/watch?v=BLRb-E0G5zk)
@@ -47,11 +47,11 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * The Road to Chaos - Velocity 2017- [video](https://www.youtube.com/watch?v=FCZVAZaXIjs) & [slides](https://github.com/norajones/Presentations/blob/master/The%20Road%20To%20Chaos%20-%20Velocity%202017.pdf)
 * [How Netflix DDoS’d Itself To Help Protect the Entire Internet](https://www.wired.com/story/netflix-ddos-attack)
 * [10 Years of Crashing Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/krishnan)
-* [Weathering the Unexpected](http://queue.acm.org/detail.cfm?id=2371516)
+* [Weathering the Unexpected](https://queue.acm.org/detail.cfm?id=2371516)
 * [SRECON17: Breaking Things on Purpose](https://youtu.be/h_-shm0SL08)
 * [PuppetConf 2016: Chaos Patterns - Architecting for Failure in Distributed Systems](https://youtu.be/V3P35N_HXNQ)
 * [Ship More, Sink Less - Changing Chaos Engineering and Distributed Tracing](https://youtu.be/nr2KWbyWAmA)
-* [Cloudcast - Discipline of Chaos Engineering](http://www.thecloudcast.net/2017/05/the-cloudcast-299-discipline-of-chaos.html)
+* [Cloudcast - Discipline of Chaos Engineering](https://www.thecloudcast.net/2017/05/the-cloudcast-299-discipline-of-chaos.html)
 * [Software Engineering Daily - Failure Injection with Kolton Andrus podcast](https://softwareengineeringdaily.com/2017/03/29/failure-injection-with-kolton-andrus/)
 * [Responding to Failures in Playback Features with Haley Tucker podcast](https://www.infoq.com/podcasts/netflix-haley-tucker?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=architecture-design)
 * ["Antics, drift, and chaos" by Lorin Hochstein](https://youtu.be/SM2uXpmyJmA)
@@ -78,7 +78,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Why should Chaos be part of your Distributed Systems Engineering?](https://medium.com/@bbideep/why-should-chaos-be-part-of-your-distributed-systems-engineering-5bcb21497660)
 * [Brian Holt - Chaos Monkeys in Your Browser What Chaos Engineering Means For the Front End](https://www.youtube.com/watch?v=A4_rRj-4Mv0)
 * [Chaos Engineering: Why the World Needs More Resilient Systems](https://www.youtube.com/watch?time_continue=242&v=Khqf0XltR_M)
-* QCon·Beijing 2017: The Practice of Failure Management and Fault Injection at Alibaba E-Commerce Platforms - [video](http://www.infoq.com/cn/presentations/ali-electricity-supplier-fault-management-and-fault-drills-practice) & [speech draft](http://jm.taobao.org/2017/06/22/20170622/) (Chinese speech)
+* QCon·Beijing 2017: The Practice of Failure Management and Fault Injection at Alibaba E-Commerce Platforms - [video](https://www.infoq.com/cn/presentations/ali-electricity-supplier-fault-management-and-fault-drills-practice) & [speech draft](https://jm.taobao.org/2017/06/22/20170622/) (Chinese speech)
 * [Orchestrating Chaos using Grab's Experimentation Platform](https://engineering.grab.com/chaos-engineering)
 * [Breaking to Learn: Chaos Engineering Explained](https://blog.newrelic.com/engineering/chaos-engineering-explained/)
 * [Chaos Engineering Traps](https://medium.com/@njones_18523/chaos-engineering-traps-e3486c526059)
@@ -103,12 +103,12 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Engineering At Ant Group](https://medium.com/@monkeysuzie/chaos-engineering-at-ant-group-30c15cb6ab69)
 
 ## Books
-* [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
+* [Chaos Engineering: Building Confidence in System Behavior through Experiment](https://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
 * [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html) -
-* [The Practice Of Cloud System Administration: Designing and Operating Large Distributed Systems](http://the-cloud-book.com/)
-* [Antifragile Systems and Teams](http://www.oreilly.com/webops-perf/free/antifragile-systems-and-teams.csp)
+* [The Practice Of Cloud System Administration: Designing and Operating Large Distributed Systems](https://the-cloud-book.com/)
+* [Antifragile Systems and Teams](https://www.oreilly.com/webops-perf/free/antifragile-systems-and-teams.csp)
 * [The InfoQ eMag: Chaos Engineering](https://www.infoq.com/minibooks/emag-chaos-engineering)
-* [Learning Chaos Engineering](http://shop.oreilly.com/product/0636920251897.do)
+* [Learning Chaos Engineering](https://shop.oreilly.com/product/0636920251897.do)
 * [Chaos Engineering: System Resilience in Practice](https://www.oreilly.com/library/view/chaos-engineering/9781492043850/)
 * [Chaos Engineering: Crash test your applications](https://www.manning.com/books/chaos-engineering)
 * [Security Chaos Engineering: Gaining Confidence in Resilience and Safety at Speed and Scale](https://www.oreilly.com/library/view/security-chaos-engineering/9781492080350/)
@@ -135,7 +135,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Engineering for Serverless](https://www.youtube.com/playlist?list=PL70SCo-0vujiQkPAOGuZP-kNZZkzcPVKD)
 * [Network Fire Drills with Chaos Engineering](https://speakerdeck.com/homingli/network-automation-meetup-network-fire-drills-with-chaos-engineering)
 * [Dev Ops Foundations: Chaos Engineering](https://www.linkedin.com/learning/devops-foundations-chaos-engineering/)
-* [Resilience Engineering: Short Course](http://csel.org.ohio-state.edu/ResilienceEngineering.html)
+* [Resilience Engineering: Short Course](https://csel.org.ohio-state.edu/ResilienceEngineering.html)
 * [The Chaos Engineering Collection](https://medium.com/@adhorn/the-chaos-engineering-collection-5e188d6a90e2)
 * [PenTester Academic](https://www.pentesteracademy.com/onlinelabs)
 * [Consul and Chaos Engineering](https://learn.hashicorp.com/tutorials/consul/introduction-chaos-engineering?in=consul/resiliency)
@@ -149,8 +149,8 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [steadybit](https://www.steadybit.com/) - A Chaos Engineering platform (SaaS or On-Prem) with auto discovery features, different attack types, user management and many more.
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - Adds chaos to your Kubernetes clusters, so that you can detect problems in your systems as early as possible. It kills targeted pods and takes VMs up and down.
 * [drax](https://github.com/dcos-labs/drax) -  DC/OS Resilience Automated Xenodiagnosis tool. It helps to test DC/OS deployments by applying a Chaos Monkey-inspired, proactive and invasive testing approach.
-* [Wiremock](http://wiremock.org/) - API mocking (Service Virtualization) which enables modeling real world faults and delays
-* [MockLab](http://get.mocklab.io/) - API mocking (Service Virtualization) as a service which enables modeling real world faults and delays.
+* [Wiremock](https://wiremock.org/) - API mocking (Service Virtualization) which enables modeling real world faults and delays
+* [MockLab](https://get.mocklab.io/) - API mocking (Service Virtualization) as a service which enables modeling real world faults and delays.
 * [Pod-Reaper](https://github.com/target/pod-reaper) - A rules based pod killing container. Pod-Reaper was designed to kill pods that meet specific conditions that can be used for Chaos testing in Kubernetes.
 * [Muxy](https://github.com/mefellows/muxy/) - A chaos testing tool for simulating a real-world distributed system failures.
 * [Toxiproxy](https://github.com/Shopify/toxiproxy) - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
@@ -251,8 +251,8 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Site Reliability Engineering resources](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources.
 * [SysAdvent](https://sysadvent.blogspot.com) - One article for each day of December, ending on the 25th article.
 * [Gremlin Blog](https://blog.gremlininc.com) - Blogs on Chaos Engineering from Gremlin Inc.
-* [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - Weekly systems engineering and operations news and insights from industry insiders.
-* [LaunchDarkly Blog](http://blog.launchdarkly.com/) - Continuous delivery and feature flags blog.
+* [O’Reilly Systems Engineering and Operations Newsletter](https://www.oreilly.com/webops-perf/newsletter.html) - Weekly systems engineering and operations news and insights from industry insiders.
+* [LaunchDarkly Blog](https://blog.launchdarkly.com/) - Continuous delivery and feature flags blog.
 * [Verica](https://www.verica.io/) - Chaos engineering, security chaos engineering and continuous verification.
 * [Proofdock](https://medium.com/proofdock) - Reliability, resilience and chaos engineering with a focus on MS Azure
 * [LitmusChaos Blog](https://dev.to/t/litmuschaos/latest) - Blogs on Chaos Engineering from LitmusChaos
