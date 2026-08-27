@@ -261,6 +261,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Chaos Experimentation Framework](https://eng.lyft.com/chaos-experimentation-an-open-source-framework-built-on-top-of-envoy-proxy-df87519ed681) Chaos Experimentation, an open-source framework built on top of Envoy Proxy
 * [Squadcast](https://squadcast.com/blog)- Blog on Site Reliability engineering.
 * [steadybit Blog](https://www.steadybit.com/blog) - Blogs on Chaos Engineering, Resilience, SRE and OPS from steadybit.
+* [Spike Blog](https://spike.sh/blog) - Blog on incident response, on-call, and reliability engineering.
 
 ## Podcasts
 * [Break Things On Purpose](https://podcasts.apple.com/us/podcast/break-things-on-purpose/id1460542551) - Monthly podcast about Chaos Engineering presented by Gremlin Inc. Also available on Spotify, Google Play, and Stitcher.
