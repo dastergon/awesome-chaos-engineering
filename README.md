@@ -156,6 +156,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Toxiproxy](https://github.com/Shopify/toxiproxy) - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
 * Chaos engineering for Docker:
   * [Pumba](https://github.com/gaia-adm/pumba) - Chaos testing and network emulation for Docker containers (and clusters).
+  * [IncidentLab](https://github.com/SreeNaresh1/ai-developer-toolkit) - A hands-on distributed systems failure laboratory in Docker to reproduce, observe, and verify canonical failure patterns.
   * [Blockade](https://github.com/worstcase/blockade) - Docker-based utility for testing network failures and partitions in distributed applications.
 * [chaos-lambda](https://github.com/bbc/chaos-lambda) - Randomly terminate ASG instances during business hours.
 * [Namazu](https://github.com/osrg/namazu) - Programmable fuzzy scheduler for testing distributed systems.
