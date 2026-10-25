@@ -196,6 +196,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [gorm-sqlchaos](https://github.com/u2386/gorm-sqlchaos) - A runtime SQL manipulator for your Golang applications based on gorm.
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - A set of tools to apply Chaos Engineering to frontend
 * [Mitigant](https://mitigant.io/) - The Continuos Security Verification Platform, enables confidence in cloud security posture by leveraging security chaos engineering.
+* [Kates](https://github.com/bmscomp/kates) - A Kubernetes-native resilience and chaos testing suite for Apache Kafka, orchestrating broker, network, and disk faults with blast-radius guards and A-F SLA grading.
 
 ## Retired tools
 * [The Simian Army](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your cloud operating in top form.
