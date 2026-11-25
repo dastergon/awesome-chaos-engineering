@@ -225,6 +225,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Observability and Chaos Engineering on System Calls for Containerized Applications in Docker](https://arxiv.org/abs/1907.13039)
 * [Maximizing Error Injection Realism for Chaos Engineering with System Calls](https://arxiv.org/abs/2006.04444)
 * [Chaos Engineering of Ethereum Blockchain Clients](https://arxiv.org/abs/2111.00221)
+* [Anatomy of a Payment](https://doi.org/10.5281/zenodo.24444210) - CC-BY-4.0 working paper and [Apache-2.0 workbench](https://digbijoylabs.github.io/anatomy-of-a-payment/) examining split-brain risk, duplicate-submission idempotency, and settlement recovery.
 
 ## Gamedays
 * [Target: What is a Gameday?](https://tech.target.com/2019/05/09/chaos-engineering-at-Target.html) - Chaos Gamedays experience by Target.
